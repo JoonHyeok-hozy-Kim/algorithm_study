@@ -21,3 +21,11 @@ _
 /BaekJoon/Solutions/Week1/Sol_10_220916_10825.py,a\6\a644d478a6a8c518016870e305a8415ce9f3126f
 _
 /BaekJoon/Solutions/Week1/Sol_11_220916_10867.py,e\a\eafa19400da76503b94662a5f9176cfc10395ac9
+_
+/BaekJoon/Solutions/Week1/Sol_12_220917_11651.py,2\e\2ec82e1b4617cf3e2554ae67b1c7b61610a2eaf1
+_
+/BaekJoon/Solutions/Week1/Sol_13_220917_18111.py,6\6\663fa41a10b92321e35367af6de0bc34c826b4f9
+_
+/BaekJoon/Solutions/Week1/Sol_14_220917_25494.py,c\0\c020b13e37132ed558dd41ee55c35ba16a8d9183
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
