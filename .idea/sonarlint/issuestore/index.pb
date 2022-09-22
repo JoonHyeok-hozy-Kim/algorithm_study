@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ^
 .BaekJoon/Solutions/Week1/Sol_02_220913_1181.py,7\0\70007ea19d3dd8f17ccdb7c73714321f751deb2e
 ^
