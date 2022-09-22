@@ -7,25 +7,12 @@ from collections import deque
 
 if __name__ == '__main__':
     N, K = map(int, input().split())
-    students = deque()
-    group = deque()
+    Q = [deque() for _ in range(21)]
     result = 0
     for i in range(N):
-        students.append(len(input()))
-
-    first = students.popleft()
-    for i in range(K):
-        if len(students) == 0:
-            break
-        group.append(students.popleft())
-
-    while len(group) > 0:
-        for student in group:
-            if first == student:
-                result += 1
-        first = group.popleft()
-        if len(students) > 0:
-            group.append(students.popleft())
-
-
+        in_len = len(input())
+        while len(Q[in_len]) > 0 and (i - Q[in_len][0] > K):
+            Q[in_len].popleft()
+        result += len(Q[in_len])
+        Q[in_len].append(i)
     print(result)

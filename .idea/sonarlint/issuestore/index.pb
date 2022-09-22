@@ -1,3 +1,23 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+^
+.BaekJoon/Solutions/Week1/Sol_01_220913_1065.py,1\3\13f42c1c0642efb5154125c42373d87fc927293b
+^
+.BaekJoon/Solutions/Week1/Sol_02_220913_1181.py,7\0\70007ea19d3dd8f17ccdb7c73714321f751deb2e
+^
+.BaekJoon/Solutions/Week1/Sol_03_220914_1182.py,6\7\673459f76dd34734cc4ce4deddbef8dc1f17a6fe
+^
+.BaekJoon/Solutions/Week1/Sol_04_220914_1448.py,1\a\1a79649d811a662c30b8c3c289bb138c6048dbd9
+^
+.BaekJoon/Solutions/Week1/Sol_05_220915_1476.py,2\b\2b2af4c6417ece309e1e2aa90203bccac8b038e2
+^
+.BaekJoon/Solutions/Week1/Sol_06_220915_2309.py,4\1\418d5770ff461da9c5dd775567f8c53e6fd76210
+^
+.BaekJoon/Solutions/Week1/Sol_07_220915_2628.py,7\4\7449f8345aa51daee2b986a134e2c28cd1c6fabc
+^
+.BaekJoon/Solutions/Week1/Sol_08_220915_2750.py,e\a\eaa5eee528d635eb8a87a0976dc142013cf2c8b0
+^
+.BaekJoon/Solutions/Week1/Sol_09_220916_2866.py,a\f\af1a20d748720a23dce4c4dcb18dd646361ae14b
+_
+/BaekJoon/Solutions/Week1/Sol_10_220916_10825.py,a\6\a644d478a6a8c518016870e305a8415ce9f3126f
