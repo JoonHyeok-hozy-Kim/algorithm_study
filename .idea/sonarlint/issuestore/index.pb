@@ -37,19 +37,3 @@ _
 .BaekJoon/Solutions/Week2/Sol_G_220922_11003.py,a\d\adc72edcbd8dd6469c46474fcf8c3fa3d9fa2136
 ^
 .BaekJoon/Solutions/Week2/Sol_H_220922_19591.py,9\e\9e62e26f7cd351c90313adb368b347527ccb134e
-^
-.BaekJoon/Solutions/Week2/Sol_I_220922_17298.py,9\7\9735c40bddb29460baef26d315d3893536e8888b
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-^
-.BaekJoon/Solutions/Week1/Sol_01_220913_1065.py,1\3\13f42c1c0642efb5154125c42373d87fc927293b
-_
-/BaekJoon/Solutions/Week1/Sol_11_220916_10867.py,e\a\eafa19400da76503b94662a5f9176cfc10395ac9
-_
-/BaekJoon/Solutions/Week1/Sol_12_220917_11651.py,2\e\2ec82e1b4617cf3e2554ae67b1c7b61610a2eaf1
-?
-BaekJoon/sol.md,3\9\39a6a1040dc74e20a507bf2b6c31b8fa0f16a865
-]
--BaekJoon/Solutions/Week2/Sol_J_220923_9935.py,9\e\9ea2d175cea74f2de3af6daa754b450f4abd2cad
-^
-.BaekJoon/Solutions/Week2/Sol_K_220923_10975.py,e\b\eb7aa3278d9668e9fb96c0ea16ed6191a9d33c35
