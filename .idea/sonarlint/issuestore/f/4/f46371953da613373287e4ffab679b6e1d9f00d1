@@ -1,8 +1,9 @@
 
-jpython:S117"NRename this parameter "D1" to match the regular expression ^[_a-z][a-z0-9_]*$.(³‹õ¤şÿÿÿÿ
-jpython:S117"NRename this parameter "D2" to match the regular expression ^[_a-z][a-z0-9_]*$.(³‹õ¤şÿÿÿÿ
-jpython:S117"NRename this parameter "M1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙƒÖàøÿÿÿÿ
-jpython:S117"NRename this parameter "M2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙƒÖàøÿÿÿÿ
-ipython:S117"MRename this parameter "S" to match the regular expression ^[_a-z][a-z0-9_]*$.(µß¯œûÿÿÿÿ
-epython:S1170"NRename this parameter "S1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÚÆš
-epython:S1170"NRename this parameter "S2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÚÆš
+Npython:S1066G"/Merge this if statement with the enclosing one.(†Û¬Î8ÇÚ¬—¹0
+jpython:S117"NRename this parameter "D1" to match the regular expression ^[_a-z][a-z0-9_]*$.(³‹õ¤şÿÿÿÿ
+jpython:S117"NRename this parameter "D2" to match the regular expression ^[_a-z][a-z0-9_]*$.(³‹õ¤şÿÿÿÿ
+Bpython:S125"Remove this commented out code.(¢“Éşúÿÿÿÿ8¾à­—¹0
+ipython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õû¸ûÿÿÿÿÿ
+dpython:S117'"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÀÔ
+epython:S117'"NRename this parameter "B1" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÀÔ
+epython:S117'"NRename this parameter "B2" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÀÔ

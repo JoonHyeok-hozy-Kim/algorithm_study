@@ -69,6 +69,10 @@ e
 5BaekJoon/Solutions/Week3/Sol_G_220929_2580_failed2.py,6\f\6fa35d0f5e52796182356c4bb1d344d823e24a4c
 e
 5BaekJoon/Solutions/Week3/Sol_G_220929_2580_cheated.py,b\c\bc325b519656d6b0c4c600835ecb46f831788537
+]
+-BaekJoon/Solutions/Week3/Sol_H_220929_4658.py,2\f\2f411b4d6406b6f2b1dcf1befd1edb8322349608
+]
+-BaekJoon/Solutions/Week3/Sol_I_220930_7568.py,f\4\f46371953da613373287e4ffab679b6e1d9f00d1
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ^
@@ -78,6 +82,10 @@ _
 _
 /BaekJoon/Solutions/Week1/Sol_12_220917_11651.py,2\e\2ec82e1b4617cf3e2554ae67b1c7b61610a2eaf1
 ]
--BaekJoon/Solutions/Week3/Sol_H_220929_4658.py,2\f\2f411b4d6406b6f2b1dcf1befd1edb8322349608
-]
--BaekJoon/Solutions/Week3/Sol_I_220930_7568.py,f\4\f46371953da613373287e4ffab679b6e1d9f00d1
+-BaekJoon/Solutions/Week3/Sol_J_221001_9663.py,7\0\7068843b306419e75fa34585a5025b31f36ad99b
+^
+.BaekJoon/Solutions/Week3/Sol_K_221001_10971.py,9\6\9600747141822a453fb2671f5c6cd69ee595ed7f
+^
+.BaekJoon/Solutions/Week3/Sol_L_221001_11277.py,e\9\e94fa3f261700aaeaef46bc6c75ebcc0dcdd3f9d
+^
+.BaekJoon/Solutions/Week3/Sol_M_221001_14939.py,b\5\b503746c2612ae9b9773b910bdbbe57f9fd0e750
