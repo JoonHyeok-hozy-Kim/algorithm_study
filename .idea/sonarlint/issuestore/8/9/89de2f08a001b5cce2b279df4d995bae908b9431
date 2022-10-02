@@ -1,0 +1,21 @@
+
+kpython:S117	"MRename this parameter "O" to match the regular expression ^[_a-z][a-z0-9_]*$.(„§òÁ8º–„Å¹0
+Ipython:S1481"%Remove the unused local variable "j".(Ê³÷Âúÿÿÿÿ8º–„Å¹0
+Ipython:S1481"%Remove the unused local variable "j".(Ê³÷Âúÿÿÿÿ8º–„Å¹0
+Ipython:S1481"%Remove the unused local variable "j".(Ê³÷Âúÿÿÿÿ8º–„Å¹0
+ppython:S117"MRename this parameter "O" to match the regular expression ^[_a-z][a-z0-9_]*$.(„€ï–ÿÿÿÿÿ8º–„Å¹0
+ppython:S1170"MRename this parameter "O" to match the regular expression ^[_a-z][a-z0-9_]*$.(®¦Ü™üÿÿÿÿ8º–„Å¹0
+ppython:S1176"MRename this parameter "O" to match the regular expression ^[_a-z][a-z0-9_]*$.(ðØ¸Ÿüÿÿÿÿ8º–„Å¹0
+kpython:S117?"MRename this parameter "O" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éò®ð8»–„Å¹0
+tpython:S117S"WRename this local variable "O_copy" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê€íF8»–„Å¹0
+tpython:S117T"VRename this local variable "O_one" to match the regular expression ^[_a-z][a-z0-9_]*$.( ý•æ8»–„Å¹0
+tpython:S117k"VRename this local variable "O_two" to match the regular expression ^[_a-z][a-z0-9_]*$.(„—¼º8»–„Å¹0
+upython:S117P"WRename this local variable "temp_O" to match the regular expression ^[_a-z][a-z0-9_]*$.(†’ò¿8»–„Å¹0
+spython:S3776?"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Éò®ð8»–„Å¹0
+<python:S125@"Remove this commented out code.(ŽØZ8¼–„Å¹0
+Bpython:S125C"Remove this commented out code.(ßÛ¨‹ýÿÿÿÿ8¼–„Å¹0
+Bpython:S125`"Remove this commented out code.(ßÛ¨‹ýÿÿÿÿ8¼–„Å¹0
+kpython:S117|"MRename this parameter "O" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ë¦8¼–„Å¹0
+tpython:S117"VRename this local variable "new_O" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ä·ú8¼–„Å¹0
+>python:S125š"Remove this commented out code.(¥ŸˆÇ8¼–„Å¹0
+>python:S125¢"Remove this commented out code.(ëÿä«8½–„Å¹0
