@@ -1,8 +1,0 @@
-
-zpython:S1871"bEither merge this branch with the identical one on line "10" or change one of the implementations.(³î
-5python:S3626"Remove this redundant return.(ÙãŞŸ
-dpython:S117"MRename this parameter "S" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÊæ
-epython:S117"NRename this parameter "S1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÊæ
-epython:S117"NRename this parameter "S2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÊæ
-5python:S3626'"Remove this redundant return.(ÙãŞŸ
-ipython:S117"MRename this parameter "S" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ‹ÄŒúÿÿÿÿ

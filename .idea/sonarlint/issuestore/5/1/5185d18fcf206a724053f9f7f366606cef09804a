@@ -1,15 +1,0 @@
-
-ipython:S117"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜñêŒüÿÿÿÿ
-jpython:S117"NRename this parameter "CM" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜñêŒüÿÿÿÿ
-ipython:S117"MRename this parameter "H" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜñêŒüÿÿÿÿ
-ipython:S117"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾¤½Óøÿÿÿÿ
-jpython:S117"NRename this parameter "CM" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾¤½Óøÿÿÿÿ
-ipython:S117"MRename this parameter "H" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾¤½Óøÿÿÿÿ
-dpython:S117 "MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä˜û
-epython:S117 "NRename this parameter "CM" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä˜û
-dpython:S117 "MRename this parameter "H" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä˜û
-kpython:S117&"TRename this local variable "c_C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŞÌ†Š
-dpython:S117."MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ù¡“
-epython:S117."NRename this parameter "CM" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ù¡“
-dpython:S117."MRename this parameter "H" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ù¡“
-6python:S125J"Remove this commented out code.(‡›µœ

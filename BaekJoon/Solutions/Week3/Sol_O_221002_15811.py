@@ -10,12 +10,12 @@ def equation_validation(W, CM, P):
     add_up = 0
 
     for j in range(min_len):
-        a = P[CM[W[0][-1-j]]]
-        b = P[CM[W[1][-1-j]]]
-        c = P[CM[W[2][-1-j]]]
-        if (a+b+add_up)%10 != c:
+        n1 = P[CM[W[0][-1-j]]]
+        n2 = P[CM[W[1][-1-j]]]
+        n3 = P[CM[W[2][-1-j]]]
+        if (n1+n2+add_up)%10 != n3:
             return False
-        add_up = (a+b)//10
+        add_up = (n1+n2)//10
 
     last_nums = [0] * 3
     for k in range(3):
@@ -44,21 +44,16 @@ if __name__ == '__main__':
     char_map = {}
     words = list(input().split())
     conditions = []
-    # print(words)
 
     for w in words:
         for c in w:
             char_map[c] = None
 
-    # print(char_map)
     cnt = 0
     for c in char_map:
         char_map[c] = cnt
         cnt += 1
-    # print(char_map)
 
-
-    # equation_validation(words, char_map)
-
-    print(try_with_permutations(words, char_map))
+    result = try_with_permutations(words, char_map)
+    print(result)
 
