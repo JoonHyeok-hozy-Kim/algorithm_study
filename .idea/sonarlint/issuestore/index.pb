@@ -83,3 +83,9 @@ e
 5BaekJoon/Solutions/Week3/Sol_M_221002_14939_failed.py,8\9\89de2f08a001b5cce2b279df4d995bae908b9431
 f
 6BaekJoon/Solutions/Week3/Sol_M_221002_14939_cheated.py,0\a\0ae92b94689ba9d2c4fd2f056cefb5da9bfffbfb
+^
+.BaekJoon/Solutions/Week3/Sol_L_221002_15686.py,5\1\5185d18fcf206a724053f9f7f366606cef09804a
+^
+.BaekJoon/Solutions/Week3/Sol_O_221002_15811.py,b\6\b6fe195a2a358126c59b56a8b5a42e548d1f250c
+^
+.BaekJoon/Solutions/Week4/Sol_N_221003_11659.py,2\6\262a26c6dd49aa5ad92703c1a2e7322af8628ddd
