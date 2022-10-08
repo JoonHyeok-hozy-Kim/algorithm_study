@@ -1,0 +1,7 @@
+
+epython:S117"NRename this parameter "S1" to match the regular expression ^[_a-z][a-z0-9_]*$.( …ÁÇ
+epython:S117"NRename this parameter "S2" to match the regular expression ^[_a-z][a-z0-9_]*$.( …ÁÇ
+kpython:S1542"SRename function "_LCS_get_path" to match the regular expression ^[a-z_][a-z0-9_]*$.( …ÁÇ
+epython:S117"NRename this parameter "S1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø∂ŒÂ
+epython:S117"NRename this parameter "S2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø∂ŒÂ
+apython:S1542"IRename function "LCS" to match the regular expression ^[a-z_][a-z0-9_]*$.(ø∂ŒÂ
