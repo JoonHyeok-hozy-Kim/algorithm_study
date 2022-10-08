@@ -1,13 +1,0 @@
-
-dpython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìê¼ê
-dpython:S117"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìê¼ê
-bpython:S1542"JRename function "LCS2" to match the regular expression ^[a-z_][a-z0-9_]*$.(ìê¼ê
-ipython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(—©¹äþÿÿÿÿ
-ipython:S117"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(—©¹äþÿÿÿÿ
-rpython:S1542"URename function "LCS2_get_result" to match the regular expression ^[a-z_][a-z0-9_]*$.(—©¹äþÿÿÿÿ
-dpython:S117%"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(£‚ó›
-dpython:S117%"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(£‚ó›
-dpython:S117%"MRename this parameter "Z" to match the regular expression ^[_a-z][a-z0-9_]*$.(£‚ó›
-bpython:S1542%"JRename function "LCS3" to match the regular expression ^[a-z_][a-z0-9_]*$.(£‚ó›
-Bpython:S125F"Remove this commented out code.(ÙîëŽøÿÿÿÿ8¿ìµÃº0
-=python:S125N"Remove this commented out code.(‘Ð¥þ8çŽ¸Ãº0

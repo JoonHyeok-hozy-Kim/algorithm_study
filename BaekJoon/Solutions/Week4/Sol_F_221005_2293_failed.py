@@ -25,7 +25,7 @@ def recursive_cnt(C, K, M, usage_cnt=None, j=0):
 
     sum_check = get_sum(C, usage_cnt)
     if sum_check == K:
-        print('-> FOUND with {}'.format(usage_cnt))
+        # print('-> FOUND with {}'.format(usage_cnt))
         return 1
     elif sum_check > K or j >= len(C) or over_max(M, usage_cnt):
         return 0
@@ -56,4 +56,4 @@ if __name__ == '__main__':
     # coins.sort()
     # print(coins)
 
-    print(factorial_solution(coins, K))
+    # print(factorial_solution(coins, K))
