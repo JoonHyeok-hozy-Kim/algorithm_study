@@ -131,7 +131,15 @@ e
 -BaekJoon/Solutions/Week4/Sol_E_221005_2011.py,0\8\08d0dbaf151211ad14eb55553042200f896ac75f
 e
 5BaekJoon/Solutions/Week4/Sol_F_221005_2293_cheated.py,6\5\659d545ec925ab70c56b84a1463d99475143ff91
+g
+7BaekJoon/Solutions/Week4_Challenge/Sol_A_221008_1208.py,5\8\58f6786922ca333e36a5b2954467d8e5378465da
+g
+7BaekJoon/Solutions/Week4_Challenge/Sol_B_221009_1256.py,9\6\96ac13da5b5ade6be68f814bc009814ff1ddffb0
+g
+7BaekJoon/Solutions/Week4_Challenge/Sol_C_221009_1947.py,2\7\27be78854dc22a3e634b683a39b62aa3e9dc249c
 f
 6BaekJoon/Solutions/Week4/Sol_Q_221008_12865_cheated.py,3\7\375ae6afc4f8156a00ca9790c5c9ade169ca2e40
 g
-7BaekJoon/Solutions/Week4_Challenge/Sol_A_221008_1208.py,5\8\58f6786922ca333e36a5b2954467d8e5378465da
+7BaekJoon/Solutions/Week4_Challenge/Sol_D_221009_2098.py,0\6\06f96172c90672cdce81180d4b1d48f11c866a58
+Z
+*BaekJoon/Solutions/Week4_Challenge/temp.md,3\4\348d4b9c8a75a14787572bc6b386549ee25e5aca
