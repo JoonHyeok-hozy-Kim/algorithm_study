@@ -153,5 +153,11 @@ e
 -BaekJoon/Solutions/Week5/Sol_F_221011_1541.py,4\1\41ef54a3fa96f469e1cafed0c890f0750c64fe9d
 ^
 .BaekJoon/Solutions/Week5/Sol_E_221011_14569.py,0\e\0ee4dcc75b9b871ba4d854a179247eb54ffd8bdc
+e
+5BaekJoon/Solutions/Week5/Sol_G_221012_1931_cheated.py,1\f\1fdda87134920f15f81d4ae7ec83f261bca816de
+e
+5BaekJoon/Solutions/Week5/Sol_H_221012_1946_cheated.py,9\b\9b0a78a47f4253bddb44cf0bc5cd1c172ce19dbb
+d
+4BaekJoon/Solutions/Week5/Sol_H_221012_1946_failed.py,5\1\5132a0da7d8bc0c4439ddcb431cb89ae27962a44
 ]
--BaekJoon/Solutions/Week5/Sol_G_221011_1931.py,b\4\b4a2626e5ae19c2ee99663f5c6b1532ba4a10498
+-BaekJoon/Solutions/Week5/Sol_I_221012_4889.py,d\8\d8a53a8f843704a2ac7cff0724c4877f1c0fec75
