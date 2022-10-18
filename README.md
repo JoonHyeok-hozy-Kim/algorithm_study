@@ -1,10 +1,10 @@
 # algorithm_study
 
 ## 1. Baek Joon Online Judge ([Go Baek Joon](https://www.acmicpc.net/))
-#### Week 1. [Time Complexity, Sorting, Full Scan]()
-#### Week 2. [Stacks, Queues, Dequeues]()
-#### Week 3. [Brute Forcing, Back Tracking]()
-#### Week 4. [Dynamic Programming]()
-#### Week 4. [Dynamic Programming Advanced]()
-#### Week 5. [Greedy Method]()
+#### Week 1. [Time Complexity, Sorting, Full Scan](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/contents.md)
+#### Week 2. [Stacks, Queues, Dequeues](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/contents.md)
+#### Week 3. [Brute Forcing, Back Tracking](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/contents.md)
+#### Week 4. [Dynamic Programming](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/contents.md)
+#### Week 4. [Dynamic Programming Advanced](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4_Challenge/contents.md)
+#### Week 5. [Greedy Method](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/contents.md)
 
