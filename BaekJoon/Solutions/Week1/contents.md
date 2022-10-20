@@ -2,7 +2,7 @@
 1.  [한수](https://www.acmicpc.net/problem/1065) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_01_220913_1065.py)
 2.  [단어 정렬](https://www.acmicpc.net/problem/1181) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_02_220913_1181.py)
 3.  [부분수열의 합](https://www.acmicpc.net/problem/1182) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_03_220914_1182.py)
-4.  [삼각형 만들기](https://www.acmicpc.net/problem/1448) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_04_220914_1448.py)
+4.  [삼각형 만들기](https://www.acmicpc.net/problem/1448) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_04_220914_1448.py) :broken_heart:
 5.  [날짜 계산](https://www.acmicpc.net/problem/1476) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_05_220915_1476.py)
 6.  [일곱 난쟁이](https://www.acmicpc.net/problem/2309) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_06_220915_2309.py)
 7.  [종이자르기](https://www.acmicpc.net/problem/2628) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_07_220915_2628.py)
