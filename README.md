@@ -1,6 +1,7 @@
 # algorithm_study
 
 ## 1. Baek Joon Online Judge ([Go Baek Joon](https://www.acmicpc.net/))
+### [Review Note](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Review/review_note.md)
 #### Week 1. [Time Complexity, Sorting, Full Scan](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/contents.md)
 #### Week 2. [Stacks, Queues, Dequeues](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/contents.md)
 #### Week 3. [Brute Forcing, Back Tracking](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/contents.md)
