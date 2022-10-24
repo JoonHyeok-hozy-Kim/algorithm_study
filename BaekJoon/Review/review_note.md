@@ -1,4 +1,4 @@
-## Ahh, Wrong again! :broken_heart:
+## Ahh, wrong again! :broken_heart:
 #### Repeat and master them!!!
 
 |Question|Trial 1|Trial 2|Trial 3|Trial 4|Trial 5|Trial 6|
@@ -9,5 +9,10 @@
 |[문자열 폭발](https://www.acmicpc.net/problem/9935)|220923 :x:|221022 :x:|||||
 |[뒤집기 3](https://www.acmicpc.net/problem/1464)|220924 :x:|221022 :x:|||||
 |[히스토그램 ](https://www.acmicpc.net/problem/1464)|221024 :x:||||||
-|Q|||||||
-|Q|||||||
+|[벡터 매칭](https://www.acmicpc.net/problem/1007)|220927 :o:|221023 :x:|||||
+|[가르침](https://www.acmicpc.net/problem/1062)|220928 :o:|221024 :x:|||||
+|[]()|||||||
+|[]()|||||||
+|[]()|||||||
+|[]()|||||||
+|[]()|||||||
