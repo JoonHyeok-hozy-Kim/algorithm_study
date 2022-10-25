@@ -8,10 +8,10 @@
 |[최솟값 찾기](https://www.acmicpc.net/problem/11003)|220922 :x:|221022 :x:|||||
 |[문자열 폭발](https://www.acmicpc.net/problem/9935)|220923 :x:|221022 :x:|||||
 |[뒤집기 3](https://www.acmicpc.net/problem/1464)|220924 :x:|221022 :x:|||||
-|[히스토그램 ](https://www.acmicpc.net/problem/1464)|221024 :x:||||||
+|[히스토그램](https://www.acmicpc.net/problem/1464)|221024 :x:||||||
 |[벡터 매칭](https://www.acmicpc.net/problem/1007)|220927 :o:|221023 :x:|||||
 |[가르침](https://www.acmicpc.net/problem/1062)|220928 :o:|221024 :x:|||||
-|[]()|||||||
+|[동전 뒤집기](https://www.acmicpc.net/problem/1285)|220928 :x:|221025 :x:|||||
 |[]()|||||||
 |[]()|||||||
 |[]()|||||||
