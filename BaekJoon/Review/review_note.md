@@ -12,6 +12,9 @@
 |[벡터 매칭](https://www.acmicpc.net/problem/1007)|220927 :o:|221023 :x:|||||
 |[가르침](https://www.acmicpc.net/problem/1062)|220928 :o:|221024 :x:|||||
 |[동전 뒤집기](https://www.acmicpc.net/problem/1285)|220928 :x:|221025 :x:|||||
+|[스도쿠](https://www.acmicpc.net/problem/2580)|220929 :x:|221027 :x:|||||
+|[]()|||||||
+|[]()|||||||
 |[]()|||||||
 |[]()|||||||
 |[]()|||||||
