@@ -8,8 +8,8 @@
 7.  [최솟값 찾기](https://www.acmicpc.net/problem/11003) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_G_220922_11003.py) :broken_heart:
 8.  [독특한 계산기](https://www.acmicpc.net/problem/19591) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_H_220922_19591.py)
 9.  [오큰수](https://www.acmicpc.net/problem/17298) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_I_220922_17298.py)
-10. [문자열 폭발](https://www.acmicpc.net/problem/9935) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_J_220923_9935.py)
+10. [문자열 폭발](https://www.acmicpc.net/problem/9935) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_J_220923_9935.py)  :broken_heart:
 11. [데크 소트 2](https://www.acmicpc.net/problem/10975) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_K_220923_10975.py)
-12. [뒤집기 3](https://www.acmicpc.net/problem/1464) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_L_220924_1464_cheat.py)
+12. [뒤집기 3](https://www.acmicpc.net/problem/1464) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_L_220924_1464_cheat.py) :broken_heart:
 13. [앵무새](https://www.acmicpc.net/problem/14713) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_M_220925_14713.py)
-14. [히스토그램](https://www.acmicpc.net/problem/1725) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_N_220626_1725.py)
+14. [히스토그램](https://www.acmicpc.net/problem/1725) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_N_220626_1725.py) :broken_heart:
