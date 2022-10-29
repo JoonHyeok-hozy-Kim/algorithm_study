@@ -13,8 +13,8 @@
 |[가르침](https://www.acmicpc.net/problem/1062)|220928 :o:|221024 :x:|||||
 |[동전 뒤집기](https://www.acmicpc.net/problem/1285)|220928 :x:|221025 :x:|||||
 |[스도쿠](https://www.acmicpc.net/problem/2580)|220929 :x:|221027 :x:|||||
-|[]()|||||||
-|[]()|||||||
+|[불 끄기](https://www.acmicpc.net/problem/14939)|221002 :x:|221029 :x:|||||
+|[복면산?!](https://www.acmicpc.net/problem/15811)|221029 :x:||||||
 |[]()|||||||
 |[]()|||||||
 |[]()|||||||
