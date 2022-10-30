@@ -15,7 +15,7 @@
 |[스도쿠](https://www.acmicpc.net/problem/2580)|220929 :x:|221027 :x:|||||
 |[불 끄기](https://www.acmicpc.net/problem/14939)|221002 :x:|221029 :x:|||||
 |[복면산?!](https://www.acmicpc.net/problem/15811)|221029 :x:||||||
-|[]()|||||||
+|[LCS 3](https://www.acmicpc.net/problem/1958)|221004 :x:|221030 :x:|||||
 |[]()|||||||
 |[]()|||||||
 |[]()|||||||
