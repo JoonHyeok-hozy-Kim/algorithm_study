@@ -1,5 +1,5 @@
 """
-https://www.acmicpc.net/group/practice/view/15665/4
+https://www.acmicpc.net/problem/2011
 """
 
 import sys

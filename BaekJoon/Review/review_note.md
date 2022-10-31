@@ -1,6 +1,19 @@
 ## Ahh, wrong again! :broken_heart:
-#### Repeat and master them!!!
 
+## Review Record
+|Trial|Status|Started Date|Completed Date|Covered From|To|Misc.|
+|-----|------|------------|--------------|------------|--|-----|
+|1|WIP|221020| |Week1. A|Week4. E| |
+||||||||
+
+
+* First Review
+  * Current Status : Covered from Week1 A to Week4 F.
+  * Started on 221020
+  * End on ...
+
+## Questions
+#### Repeat and master them!!!
 |Question|Trial 1|Trial 2|Trial 3|Trial 4|Trial 5|Trial 6|
 |--------|-------|-------|-------|-------|-------|-------|
 |[삼각형 만들기](https://www.acmicpc.net/problem/1448)|220914 :x:|221020 :x:|||||
