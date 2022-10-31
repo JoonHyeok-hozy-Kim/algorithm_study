@@ -1,8 +1,8 @@
 ## Ahh, wrong again! :broken_heart:
 
 ## Review Record
-|Trial|Status|Started Date|Completed Date|Covered From|To|Misc.|
-|-----|------|------------|--------------|------------|--|-----|
+|Trial|Status|Started Date|Completed Date|Covered From|To |Misc.|
+|:---:|:----:|:----------:|:------------:|:----------:|:-:|:---:|
 |1|WIP|221020| |Week1. A|Week4. E| |
 ||||||||
 
