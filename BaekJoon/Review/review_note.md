@@ -7,11 +7,6 @@
 ||||||||
 
 
-* First Review
-  * Current Status : Covered from Week1 A to Week4 F.
-  * Started on 221020
-  * End on ...
-
 ## Questions
 #### Repeat and master them!!!
 |Question|Trial 1|Trial 2|Trial 3|Trial 4|Trial 5|Trial 6|
