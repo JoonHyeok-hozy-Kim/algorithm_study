@@ -7,4 +7,4 @@
 #### Week 3. [Brute Forcing, Back Tracking](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/contents.md)
 #### Week 4. [Dynamic Programming](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/contents.md)
 #### Week 5. [Greedy Method](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/contents.md)
-#### Week 6. [Divide & Conquer]()
+#### Week 6. [Divide & Conquer](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/contents.md)
