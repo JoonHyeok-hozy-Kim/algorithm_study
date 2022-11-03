@@ -1,4 +1,4 @@
-#### Week 5. Greedy Method
+## Week 5. Greedy Method
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
 |1.  |[보물](https://www.acmicpc.net/problem/1026)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_A_221011_1026.py) |
@@ -17,3 +17,15 @@
 |14. |[독수리](https://www.acmicpc.net/problem/16238)| [221018](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_N_221018_16238_cheated.py) |
 |15. |[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)| [221019](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_O_221019_1700_cheated.py) |
 |16. |[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)| [221019](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_P_221019_11497.py) |
+
+## Advanced Questions
+|No.  |Question|Trial 1|
+|:---:|:------:|:-----:|
+|1. |[Q](https://www.acmicpc.net/problem/1052 )| []()|
+|2. |[Q](https://www.acmicpc.net/problem/1744 )| []()|
+|3. |[Q](https://www.acmicpc.net/problem/2872 )| []()|
+|4. |[Q](https://www.acmicpc.net/problem/7570 )| []()|
+|5. |[Q](https://www.acmicpc.net/problem/9009 )| []()|
+|6. |[Q](https://www.acmicpc.net/problem/12931)| []()|
+|7. |[Q](https://www.acmicpc.net/problem/18310)| []()|
+|8. |[Q](https://www.acmicpc.net/problem/25381)| []()|

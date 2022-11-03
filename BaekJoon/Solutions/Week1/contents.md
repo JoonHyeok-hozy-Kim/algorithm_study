@@ -1,4 +1,4 @@
-#### Week 1. Time Complexity, Sorting, Full Scan
+## Week 1. Time Complexity, Sorting, Full Scan
 
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
@@ -17,3 +17,13 @@
 |13 |[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)        |[220917](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_12_220917_11651.py)|
 |14 |[마인크래프트](https://www.acmicpc.net/problem/18111)           |[220917](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_13_220917_18111.py)|
 |15 |[단순한 문제 (Small)](https://www.acmicpc.net/problem/25494)   | [220917](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_14_220917_25494.py)|
+
+## Advanced Questions
+|No.  |Question|Trial 1|
+|:---:|:------:|:-----:|
+|1. |[Q](https://www.acmicpc.net/problem/2170 ) |[]() |
+|2. |[Q](https://www.acmicpc.net/problem/5884 ) |[]() |
+|3. |[Q](https://www.acmicpc.net/problem/13316) |[]() |
+|4. |[Q](https://www.acmicpc.net/problem/16069) |[]() |
+|5. |[Q](https://www.acmicpc.net/problem/16936) |[]() |
+|6. |[Q](https://www.acmicpc.net/problem/20652) |[]() |

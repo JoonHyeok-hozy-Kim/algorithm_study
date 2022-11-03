@@ -1,4 +1,4 @@
-#### Week 2. Stacks, Queues, Dequeues
+## Week 2. Stacks, Queues, Dequeues
 
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
@@ -16,3 +16,12 @@
 |12. | [뒤집기 3](https://www.acmicpc.net/problem/1464)            | [220924](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_L_220924_1464_cheat.py) :broken_heart:|
 |13. | [앵무새](https://www.acmicpc.net/problem/14713)             | [220925](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_M_220925_14713.py) |
 |14. | [히스토그램](https://www.acmicpc.net/problem/1725)            | [220926](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/Sol_N_220626_1725.py) :broken_heart:|
+
+
+## Advanced Questions
+|No.  |Question|Trial 1|
+|:---:|:------:|:-----:|
+|1.|[Q](https://www.acmicpc.net/problem/3307 )|[]()|
+|2.|[Q](https://www.acmicpc.net/problem/11873)|[]()|
+|3.|[Q](https://www.acmicpc.net/problem/15678)|[]()|
+|4.|[Q](https://www.acmicpc.net/problem/5977 )|[]()|

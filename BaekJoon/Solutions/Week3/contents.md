@@ -1,4 +1,4 @@
-#### Week 3. Brute Forcing, Back Tracking
+## Week 3. Brute Forcing, Back Tracking
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
 |1.  |[벡터 매칭](https://www.acmicpc.net/problem/1007)| [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/Sol_A_220927_1007.py) :broken_heart: |
@@ -16,3 +16,12 @@
 |13. |[불 끄기](https://www.acmicpc.net/problem/15686)| [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/Sol_M_221002_14939_cheated.py) |
 |14. |[치킨 배달](https://www.acmicpc.net/problem/14939)|  |
 |15. |[복면산?!](https://www.acmicpc.net/problem/15811)| [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/) |
+
+
+## Advanced Questions
+|No.  |Question|Trial 1|
+|:---:|:------:|:-----:|
+|1. |[Q](https://www.acmicpc.net/problem/2171 )|[]()|
+|2. |[Q](https://www.acmicpc.net/problem/1111 )|[]()|
+|3. |[Q](https://www.acmicpc.net/problem/12102)|[]()|
+|4. |[Q](https://www.acmicpc.net/problem/4902 )|[]()|
