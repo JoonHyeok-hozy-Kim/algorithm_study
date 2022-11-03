@@ -1,17 +1,19 @@
 #### Week 5. Greedy Method
-1.  [보물](https://www.acmicpc.net/problem/1026) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_A_221011_1026.py)
-2.  [동전 0](https://www.acmicpc.net/problem/11047) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_B_221011_11047.py)
-3.  [ATM](https://www.acmicpc.net/problem/11399) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_C_221011_11399.py)
-4.  [2+1 세일](https://www.acmicpc.net/problem/11508) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_D_221011_11508.py)
-5.  [시간표 짜기](https://www.acmicpc.net/problem/14569) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_E_221011_14569.py)
-6.  [잃어버린 괄호](https://www.acmicpc.net/problem/1541) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_F_221011_1541.py)
-7.  [회의실 배정](https://www.acmicpc.net/problem/1931) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_G_221012_1931_cheated.py)
-8.  [신입 사원](https://www.acmicpc.net/problem/1946) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_H_221012_1946_cheated.py)
-9.  [안정적인 문자열](https://www.acmicpc.net/problem/4889) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_I_221012_4889.py)
-10. [도서관](https://www.acmicpc.net/problem/1461) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_J_221013_1461.py)
-11. [주사위](https://www.acmicpc.net/problem/1041) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_K_221013_1041.py)
-12. [단어 수학](https://www.acmicpc.net/problem/1339) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_L_221013_1339_cheated.py)
-13. [저울](https://www.acmicpc.net/problem/2437) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_M_221013_2437.py)
-14. [독수리](https://www.acmicpc.net/problem/16238) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_N_221018_16238_cheated.py)
-15. [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_O_221019_1700_cheated.py)
-16. [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) -> [Solution](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_P_221019_11497.py)
+|No.  |Question|Trial 1|
+|:---:|:------:|:-----:|
+|1.  |[보물](https://www.acmicpc.net/problem/1026)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_A_221011_1026.py) |
+|2.  |[동전 0](https://www.acmicpc.net/problem/11047)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_B_221011_11047.py) |
+|3.  |[ATM](https://www.acmicpc.net/problem/11399)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_C_221011_11399.py) |
+|4.  |[2+1 세일](https://www.acmicpc.net/problem/11508)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_D_221011_11508.py) |
+|5.  |[시간표 짜기](https://www.acmicpc.net/problem/14569)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_E_221011_14569.py) |
+|6.  |[잃어버린 괄호](https://www.acmicpc.net/problem/1541)| [221011](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_F_221011_1541.py) |
+|7.  |[회의실 배정](https://www.acmicpc.net/problem/1931)| [221012](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_G_221012_1931_cheated.py) |
+|8.  |[신입 사원](https://www.acmicpc.net/problem/1946)| [221012](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_H_221012_1946_cheated.py) |
+|9.  |[안정적인 문자열](https://www.acmicpc.net/problem/4889)| [221012](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_I_221012_4889.py) |
+|10. |[도서관](https://www.acmicpc.net/problem/1461)| [221013](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_J_221013_1461.py) |
+|11. |[주사위](https://www.acmicpc.net/problem/1041)| [221013](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_K_221013_1041.py) |
+|12. |[단어 수학](https://www.acmicpc.net/problem/1339)| [221013](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_L_221013_1339_cheated.py) |
+|13. |[저울](https://www.acmicpc.net/problem/2437)| [221013](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_M_221013_2437.py) |
+|14. |[독수리](https://www.acmicpc.net/problem/16238)| [221018](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_N_221018_16238_cheated.py) |
+|15. |[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)| [221019](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_O_221019_1700_cheated.py) |
+|16. |[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)| [221019](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/Sol_P_221019_11497.py) |
