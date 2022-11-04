@@ -1,4 +1,15 @@
-## Week 
+## Week 6. Divide & Conquer
+* Sample Question
+
+|No.  |Question|Trial 1|
+|:---:|:------:|:-----:|
+|1.  |[Quad Tree](https://www.acmicpc.net/problem/1992)| []() |
+|2.  |[Longest Increasing Sequence](https://www.acmicpc.net/problem/14003)| []() |
+|3.  |[Rectangle](https://www.acmicpc.net/problem/2171)| []() |
+
+
+* Main Question
+
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
 |1.  |[]()| []() |
