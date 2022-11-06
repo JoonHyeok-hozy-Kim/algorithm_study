@@ -18,8 +18,8 @@
 |3.   |[부분수열의 합 2](https://www.acmicpc.net/problem/1208)| [221105](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_03_221105_1208_cheated.py) |
 |4.   |[K번째 수](https://www.acmicpc.net/problem/1300)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_04_221106_1300_cheated.py) |
 |5.   |[원숭이 땅을 옮기다](https://www.acmicpc.net/problem/1425)| [221106(Not Solved Yet)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_05_221106_1425.py) |
-|6.   |[버블 소트](https://www.acmicpc.net/problem/1517)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|7.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|6.   |[버블 소트](https://www.acmicpc.net/problem/1517)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_06_221106_1517_cheated.py) |
+|7.   |[캠프가는 영식](https://www.acmicpc.net/problem/1590)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_07_221106_1590.py) |
 |8.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
 |9.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
 |10.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
