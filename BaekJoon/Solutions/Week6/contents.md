@@ -14,21 +14,21 @@
 |No.  |Question|Trial 1|
 |:---:|:-------|:-----:|
 |1.   |[Z](https://www.acmicpc.net/problem/1074)| [221104](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_01_221104_1074.py) |
-|2.   |[](https://www.acmicpc.net/problem/)| []() |
-|3.   |[](https://www.acmicpc.net/problem/)| []() |
-|4.   |[](https://www.acmicpc.net/problem/)| []() |
-|5.   |[](https://www.acmicpc.net/problem/)| []() |
-|6.   |[](https://www.acmicpc.net/problem/)| []() |
-|7.   |[](https://www.acmicpc.net/problem/)| []() |
-|8.   |[](https://www.acmicpc.net/problem/)| []() |
-|9.   |[](https://www.acmicpc.net/problem/)| []() |
-|10.  |[](https://www.acmicpc.net/problem/)| []() |
-|11.  |[](https://www.acmicpc.net/problem/)| []() |
-|12.  |[](https://www.acmicpc.net/problem/)| []() |
-|13.  |[](https://www.acmicpc.net/problem/)| []() |
-|14.  |[](https://www.acmicpc.net/problem/)| []() |
-|15.  |[](https://www.acmicpc.net/problem/)| []() |
-|16.  |[](https://www.acmicpc.net/problem/)| []() |
+|2.   |[선물](https://www.acmicpc.net/problem/1166)| [221104](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|3.   |[부분수열의 합 2](https://www.acmicpc.net/problem/1208)| [221105](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_03_221105_1208_cheated.py) |
+|4.   |[K번째 수](https://www.acmicpc.net/problem/1300)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_04_221106_1300_cheated.py) |
+|5.   |[원숭이 땅을 옮기다](https://www.acmicpc.net/problem/1425)| [221106(Not Solved Yet)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_05_221106_1425.py) |
+|6.   |[버블 소트](https://www.acmicpc.net/problem/1517)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|7.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|8.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|9.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|10.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|11.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|12.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|13.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|14.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|15.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|16.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
 
 
 ## Advanced Questions : Segment Tree
