@@ -21,7 +21,7 @@
 |6.   |[버블 소트](https://www.acmicpc.net/problem/1517)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_06_221106_1517_cheated.py) |
 |7.   |[캠프가는 영식](https://www.acmicpc.net/problem/1590)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_07_221106_1590.py) |
 |8.   |[랜선 자르기](https://www.acmicpc.net/problem/1654)| [221108](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_08_221106_1654_cheated.py) |
-|9.   |[히스토그램 ](https://www.acmicpc.net/problem/1725)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|9.   |[히스토그램 ](https://www.acmicpc.net/problem/1725)| [221108](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_09_221108_1725_cheated.py) |
 |10.  |[종이 접기](https://www.acmicpc.net/problem/1802)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
 |11.  |[색종이 만들기](https://www.acmicpc.net/problem/2630)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
 |12.  |[암기왕](https://www.acmicpc.net/problem/2776)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
