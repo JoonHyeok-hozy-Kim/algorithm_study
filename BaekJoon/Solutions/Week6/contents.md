@@ -20,15 +20,15 @@
 |5.   |[원숭이 땅을 옮기다](https://www.acmicpc.net/problem/1425)| [221106(Not Solved Yet)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_05_221106_1425.py) |
 |6.   |[버블 소트](https://www.acmicpc.net/problem/1517)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_06_221106_1517_cheated.py) |
 |7.   |[캠프가는 영식](https://www.acmicpc.net/problem/1590)| [221106](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_07_221106_1590.py) |
-|8.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|9.   |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|10.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|11.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|12.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|13.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|14.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|15.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
-|16.  |[](https://www.acmicpc.net/problem/)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_02_221104_1166_cheated.py) |
+|8.   |[랜선 자르기](https://www.acmicpc.net/problem/1654)| [221108](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_08_221106_1654_cheated.py) |
+|9.   |[히스토그램 ](https://www.acmicpc.net/problem/1725)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|10.  |[종이 접기](https://www.acmicpc.net/problem/1802)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|11.  |[색종이 만들기](https://www.acmicpc.net/problem/2630)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|12.  |[암기왕](https://www.acmicpc.net/problem/2776)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|13.  |[Counting Inversions](https://www.acmicpc.net/problem/10090)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|14.  |[가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/SampleQuestions/Sol.py) |
+|15.  |[도토리 숨기기](https://www.acmicpc.net/problem/15732)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|16.  |[시철이가 사랑한 GCD](https://www.acmicpc.net/problem/21870)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
 
 
 ## Advanced Questions : Segment Tree
