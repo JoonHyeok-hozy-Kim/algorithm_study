@@ -1,11 +1,11 @@
 ## Week 7. Graph Algorithms
 |No.  |Question|Trial 1|
 |:---:|:-------|:-----:|
-|1.   |[](https://www.acmicpc.net/problem/1325)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|2.   |[](https://www.acmicpc.net/problem/2178)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|3.   |[](https://www.acmicpc.net/problem/2210)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|4.   |[](https://www.acmicpc.net/problem/7562)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|5.   |[](https://www.acmicpc.net/problem/7569)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
+|1.   |[효율적인 해킹](https://www.acmicpc.net/problem/1325)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_01_221108_1325_cheated.py) |
+|2.   |[미로 탐색](https://www.acmicpc.net/problem/2178)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_02_221109_2178_cheated.py) |
+|3.   |[숫자판 점프](https://www.acmicpc.net/problem/2210)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_03_221109_2210.py) |
+|4.   |[나이트의 이동](https://www.acmicpc.net/problem/7562)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_04_221109_7562.py) |
+|5.   |[토마토](https://www.acmicpc.net/problem/7569)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_05_221109_7569.py) |
 |6.   |[](https://www.acmicpc.net/problem/9019)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
 |7.   |[](https://www.acmicpc.net/problem/11724)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
 |8.   |[](https://www.acmicpc.net/problem/16236)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
