@@ -24,8 +24,8 @@
 |9.   |[히스토그램 ](https://www.acmicpc.net/problem/1725)| [221108](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_09_221108_1725_cheated.py) |
 |10.  |[종이 접기](https://www.acmicpc.net/problem/1802)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_10_221109_1802.py) |
 |11.  |[색종이 만들기](https://www.acmicpc.net/problem/2630)| [221109](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_11_221109_2630.py) |
-|12.  |[암기왕](https://www.acmicpc.net/problem/2776)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
-|13.  |[Counting Inversions](https://www.acmicpc.net/problem/10090)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
+|12.  |[암기왕](https://www.acmicpc.net/problem/2776)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_12_221110_2776.py) |
+|13.  |[Counting Inversions](https://www.acmicpc.net/problem/10090)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol_13_221110_10090.py) |
 |14.  |[가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/SampleQuestions/Sol.py) |
 |15.  |[도토리 숨기기](https://www.acmicpc.net/problem/15732)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
 |16.  |[시철이가 사랑한 GCD](https://www.acmicpc.net/problem/21870)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/MainQuestions/Sol.py) |
