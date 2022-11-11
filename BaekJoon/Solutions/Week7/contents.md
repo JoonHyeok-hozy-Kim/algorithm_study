@@ -11,8 +11,8 @@
 |8.   |[아기 상어](https://www.acmicpc.net/problem/16236)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_08_221110_16236.py) |
 |9.   |[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_09_221110_18352.py) |
 |10.  |[와드](https://www.acmicpc.net/problem/23747)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_10_221110_23747.py) |
-|11.  |[](https://www.acmicpc.net/problem/23749)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|12.  |[](https://www.acmicpc.net/problem/24391)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
+|11.  |[카드컨트롤](https://www.acmicpc.net/problem/23749)| [221111](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_11_221111_23749.py) |
+|12.  |[귀찮은 해강이](https://www.acmicpc.net/problem/24391)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
 |13.  |[](https://www.acmicpc.net/problem/24444)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
 |14.  |[](https://www.acmicpc.net/problem/24480)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
 |15.  |[](https://www.acmicpc.net/problem/25195)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
