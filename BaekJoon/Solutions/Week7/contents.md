@@ -12,10 +12,10 @@
 |9.   |[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_09_221110_18352.py) |
 |10.  |[와드](https://www.acmicpc.net/problem/23747)| [221110](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_10_221110_23747.py) |
 |11.  |[카드컨트롤](https://www.acmicpc.net/problem/23749)| [221111](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_11_221111_23749.py) |
-|12.  |[귀찮은 해강이](https://www.acmicpc.net/problem/24391)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|13.  |[](https://www.acmicpc.net/problem/24444)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|14.  |[](https://www.acmicpc.net/problem/24480)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
-|15.  |[](https://www.acmicpc.net/problem/25195)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol.py) |
+|12.  |[귀찮은 해강이](https://www.acmicpc.net/problem/24391)| [221112](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_12_221112_24391.py) |
+|13.  |[알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)| [221112](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_13_221112_24444.py) |
+|14.  |[알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480)| [221112](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_14_221112_24480.py) |
+|15.  |[Yes or yes](https://www.acmicpc.net/problem/25195)| [221112](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/MainQuestions/Sol_15_221112_25195.py) |
 
 
 ## Advanced Questions
