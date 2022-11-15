@@ -9,4 +9,4 @@
 #### Week 5. [Greedy Method](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week5/contents.md)
 #### Week 6. [Divide & Conquer](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week6/contents.md)
 #### Week 7. [Graph Algorithms](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/contents.md)
-#### Week 7. [Tree Algorithms](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/contents.md)
+#### Week 8. [Tree Algorithms](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/contents.md)
