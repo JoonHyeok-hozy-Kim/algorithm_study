@@ -21,7 +21,7 @@
 ## Advanced Questions
 |No.  |Question|Trial 1|
 |:---:|:-------|:-----:|
-|1.   |[](https://www.acmicpc.net/problem/1005)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/AdvancedQuestions/Sol.py) |
+|1.   |[ACM Craft](https://www.acmicpc.net/problem/1005)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/AdvancedQuestions/Sol.py) |
 |2.   |[](https://www.acmicpc.net/problem/1707)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/AdvancedQuestions/Sol.py) |
 |3.   |[](https://www.acmicpc.net/problem/1766)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/AdvancedQuestions/Sol.py) |
 |4.   |[](https://www.acmicpc.net/problem/1937)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week7/AdvancedQuestions/Sol.py) |
