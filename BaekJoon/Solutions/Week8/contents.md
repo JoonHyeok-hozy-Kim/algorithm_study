@@ -8,9 +8,9 @@
 |5.   |[이진 검색 트리](https://www.acmicpc.net/problem/5639)| [221117](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_05_221117_5639.py) |
 |6.   |[트리](https://www.acmicpc.net/problem/4803)| [221117](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_06_221117_4803.py) |
 |7.   |[트리의 지름](https://www.acmicpc.net/problem/1967)| [221117](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_07_221117_1967.py) |
-|8.   |[](https://www.acmicpc.net/problem/14267)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
-|9.   |[](https://www.acmicpc.net/problem/16437)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
-|10.  |[](https://www.acmicpc.net/problem/2533)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
+|8.   |[회사 문화 1](https://www.acmicpc.net/problem/14267)| [221118](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_08_221118_14267.py) |
+|9.   |[양 구출 작전](https://www.acmicpc.net/problem/16437)| [221118](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_09_221118_16437.py) |
+|10.  |[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
 |11.  |[](https://www.acmicpc.net/problem/11812)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
 |12.  |[](https://www.acmicpc.net/problem/2263)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
 |13.  |[](https://www.acmicpc.net/problem/1949)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
@@ -20,4 +20,5 @@
 ## Advanced Questions
 |No.  |Question|Trial 1|
 |:---:|:-------|:-----:|
+
 https://www.acmicpc.net/problem/
