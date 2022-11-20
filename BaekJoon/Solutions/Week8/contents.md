@@ -11,9 +11,9 @@
 |8.   |[회사 문화 1](https://www.acmicpc.net/problem/14267)| [221118](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_08_221118_14267.py) |
 |9.   |[양 구출 작전](https://www.acmicpc.net/problem/16437)| [221118](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_09_221118_16437.py) |
 |10.  |[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| [221119](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_10_221119_2533_cheated.py) |
-|11.  |[K진 트리](https://www.acmicpc.net/problem/11812)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
-|12.  |[](https://www.acmicpc.net/problem/2263)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
-|13.  |[](https://www.acmicpc.net/problem/1949)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
+|11.  |[K진 트리](https://www.acmicpc.net/problem/11812)| [221120](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_11_221120_11812.py) |
+|12.  |[트리의 순회](https://www.acmicpc.net/problem/2263)| [221120](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_12_221120_2263_cheated.py) |
+|13.  |[우수 마을](https://www.acmicpc.net/problem/1949)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
 |14.  |[](https://www.acmicpc.net/problem/23844)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
 
 
