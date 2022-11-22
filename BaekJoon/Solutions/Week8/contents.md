@@ -14,7 +14,7 @@
 |11.  |[K진 트리](https://www.acmicpc.net/problem/11812)| [221120](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_11_221120_11812.py) |
 |12.  |[트리의 순회](https://www.acmicpc.net/problem/2263)| [221120](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_12_221120_2263_cheated.py) |
 |13.  |[우수 마을](https://www.acmicpc.net/problem/1949)| [221120](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_13_221120_1949.py) |
-|14.  |[트리 정리하기](https://www.acmicpc.net/problem/23844)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol.py) |
+|14.  |[트리 정리하기](https://www.acmicpc.net/problem/23844)| [221122](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/MainQuestions/Sol_14_221122_23844_cheated.py) |
 
 
 ## Advanced Questions
