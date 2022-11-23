@@ -1,10 +1,18 @@
 ## Week 9. Shortest Path Finding (Dijkstra, Floyd-Warshall, and Bellman-Ford)
+
+### Theories
+1. [Dijkstra's Algorithm revisited](https://github.com/JoonHyeok-hozy-Kim/datastructure_and_algorithm_in_python/blob/main/Contents/Part14_Graph_Algorithms/part14_00_graph_algorithms.md#1462-dijkstras-algorithm)
+2. [Floyd-Warshall Algorithm revisited](https://github.com/JoonHyeok-hozy-Kim/datastructure_and_algorithm_in_python/blob/main/Contents/Part14_Graph_Algorithms/part14_00_graph_algorithms.md#tech-floyd-warshall-algorithm)
+3. [Bellman-Ford]()
+
+
+### Questions
 |No.  |Question|Trial 1|
 |:---:|:-------|:-----:|
-|1.   |[전구를 켜라](https://www.acmicpc.net/problem/2423 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
-|2.   |[Road Reconstruction](https://www.acmicpc.net/problem/20046)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
-|3.   |[홍익대학교 지하캠퍼스](https://www.acmicpc.net/problem/17833)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
-|4.   |[월요병](https://www.acmicpc.net/problem/14611)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
+|1.   |[전구를 켜라](https://www.acmicpc.net/problem/2423 )| [221122](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_01_221122_2423.py) |
+|2.   |[Road Reconstruction](https://www.acmicpc.net/problem/20046)| [221123](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_02_221123_20046.py) |
+|3.   |[홍익대학교 지하캠퍼스](https://www.acmicpc.net/problem/17833)| [221123](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_03_221123_17833.py) |
+|4.   |[월요병](https://www.acmicpc.net/problem/14611)| [221123](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_04_221123_14611.py) |
 |5.   |[The Other Way](https://www.acmicpc.net/problem/14554)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |6.   |[최소비용 구하기 2](https://www.acmicpc.net/problem/11779)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |7.   |[무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
