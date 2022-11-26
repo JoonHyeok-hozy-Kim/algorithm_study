@@ -6,7 +6,7 @@
 3. [Bellman-Ford]()
 
 
-### Questions
+### Main Questions
 |No.  |Question|Trial 1|
 |:---:|:-------|:-----:|
 |1.   |[전구를 켜라](https://www.acmicpc.net/problem/2423 )| [221122](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_01_221122_2423.py) |
@@ -16,8 +16,8 @@
 |5.   |[The Other Way](https://www.acmicpc.net/problem/14554)| [221124](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_05_221124_14554.py) |
 |6.   |[최소비용 구하기 2](https://www.acmicpc.net/problem/11779)| [221124](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_06_221124_11779.py) |
 |7.   |[무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694 )| [221124](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_07_221124_9694.py) |
-|8.   |[거의 최단 경로](https://www.acmicpc.net/problem/5719 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
-|9.   |[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
+|8.   |[거의 최단 경로](https://www.acmicpc.net/problem/5719 )| [221126](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_08_221126_5719_cheated.py) |
+|9.   |[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854 )| [221126](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_09_221126_1854.py) |
 |10.  |[노트 조각](https://www.acmicpc.net/problem/24888)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |11.  |[텔레포트](https://www.acmicpc.net/problem/16958)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |12.  |[밤편지](https://www.acmicpc.net/problem/23258)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
@@ -27,19 +27,13 @@
 |16.  |[두 단계 최단경로 1](https://www.acmicpc.net/problem/23793)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Advanced Questions
+|No.  |Question|Trial 1|
+|:---:|:-------|:-----:|
+|1.   |[도로포장](https://www.acmicpc.net/problem/1162 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/AdvancedQuestions/Sol.py) |
+|2.   |[도로검문](https://www.acmicpc.net/problem/2307 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/AdvancedQuestions/Sol.py) |
+|3.   |[미로 만들기](https://www.acmicpc.net/problem/2665 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/AdvancedQuestions/Sol.py) |
+|4.   |[백양로 브레이크](https://www.acmicpc.net/problem/11562)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/AdvancedQuestions/Sol.py) |
+|5.   |[템포럴 그래프](https://www.acmicpc.net/problem/25953)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/AdvancedQuestions/Sol.py) |
+|6.   |[Forbidden Turns](https://www.acmicpc.net/problem/26106)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/AdvancedQuestions/Sol.py) |
 
