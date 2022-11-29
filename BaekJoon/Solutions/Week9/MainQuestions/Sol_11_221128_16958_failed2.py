@@ -18,7 +18,7 @@ def calculate_distance(C, T, i, j):
 def first_fill(T, C, D):
     for start in range(1, N+1):
         for end in range(1, N+1):
-            if start != end and D[start][end] is None:
+            if start != end and D[start][end] is None and D[start][end] is None:
                 D[start][end] = D[start][end] = calculate_distance(C, T, start, end)
 
 

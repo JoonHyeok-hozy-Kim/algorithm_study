@@ -20,7 +20,7 @@
 |9.   |[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854 )| [221126](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_09_221126_1854.py) |
 |10.  |[노트 조각](https://www.acmicpc.net/problem/24888)| :hourglass:[221127](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_10_221127_24888_failed.py) |
 |11.  |[텔레포트](https://www.acmicpc.net/problem/16958)| :hourglass:[221128](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol_11_221128_16958_failed2.py) |
-|12.  |[밤편지](https://www.acmicpc.net/problem/23258)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
+|12.  |[밤편지](https://www.acmicpc.net/problem/23258)| :hourglass:[221129](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |13.  |[Ignition](https://www.acmicpc.net/problem/13141)| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |14.  |[arbitrage](https://www.acmicpc.net/problem/6598 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
 |15.  |[키 순서](https://www.acmicpc.net/problem/2458 )| [](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/MainQuestions/Sol.py) |
