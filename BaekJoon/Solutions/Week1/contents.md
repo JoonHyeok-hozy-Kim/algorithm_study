@@ -2,9 +2,9 @@
 
 |No.  |Question|Trial 1|Trial 2|
 |:---:|:------:|:-----:|:-----:|
-|1  |[한수](https://www.acmicpc.net/problem/1065)                |  [220913 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_01_220913_1065.py)| [221210 in C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp/Sol_01_221209_1065.cpp) |
-|2  |[단어 정렬](https://www.acmicpc.net/problem/1181)             | [220913 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_02_220913_1181.py)| [221210 in C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp/Sol_02_221209_1181.cpp) |
-|3  |[부분수열의 합](https://www.acmicpc.net/problem/1182)           |[220914 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_03_220914_1182.py)| []() |
+|1  |[한수](https://www.acmicpc.net/problem/1065)                |  [220913 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_01_220913_1065.py)| [221209 in C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp/Sol_01_221209_1065.cpp) |
+|2  |[단어 정렬](https://www.acmicpc.net/problem/1181)             | [220913 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_02_220913_1181.py)| [221209 in C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp/Sol_02_221209_1181.cpp) |
+|3  |[부분수열의 합](https://www.acmicpc.net/problem/1182)           |[220914 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_03_220914_1182.py)| [221210 in C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp/Sol_03_221209_1182.cpp) |
 |4  |[삼각형 만들기](https://www.acmicpc.net/problem/1448)           |[220914 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_04_220914_1448.py) :broken_heart:| []() |
 |5  |[날짜 계산](https://www.acmicpc.net/problem/1476)             | [220915 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_05_220915_1476.py)| []() |
 |6  |[일곱 난쟁이](https://www.acmicpc.net/problem/2309)            | [220915 in Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/Sol_06_220915_2309.py)| []() |
