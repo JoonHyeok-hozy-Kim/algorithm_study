@@ -1,5 +1,5 @@
 /*
-2866. 문자열 잘라내기
+2751. 수 정렬하기 2
 https://www.acmicpc.net/problem/2866
 */
 #include <stdio.h>

@@ -3,42 +3,29 @@
 https://www.acmicpc.net/problem/2866
 """
 
-from itertools import combinations
-def convert_matrix(matrix, rownum, colnum):
-    result = [[] for i in range(colnum)]
-    for row in range(rownum-1):
-        for col in range(colnum):
-            result[col].append(matrix[row+1][col])
-    for i in range(len(result)):
-        result[i] = ''.join(result[i])
-    return result
+def create_map_and_cnt(_str_map, _C, _R, _strings, i, j=None, _curr_cnt=0):
+    if j is None:
+        j = _R-1
 
-def counter(converted_mat, l):
-    comb_set = combinations(converted_mat, 2)
-    min_count = l
-    # print('l : {}'.format(l))
-    for comb in comb_set:
-        temp_count = l
-        # print('{}-{}'.format(comb[0], comb[1]))
-        for i in range(l):
-            # print(' -> {} vs {}'.format(comb[0][l-1-i], comb[1][l-1-i]))
-            if comb[0][l-1-i] == comb[1][l-1-i]:
-                # print(' ----> FOUND')
-                temp_count -= 1
-            else:
-                break
-        min_count = min(min_count, temp_count)
-    return min_count
+    if j < 0:
+        return _curr_cnt
+
+    if _strings[j][i] in _str_map:
+        return create_map_and_cnt(_str_map[_strings[j][i]], _C, _R, _strings, i, j-1, _curr_cnt+1)
+    else:
+        _str_map[_strings[j][i]] = {}
+        return create_map_and_cnt(_str_map[_strings[j][i]], _C, _R, _strings, i, j-1, _curr_cnt)
 
 if __name__ == '__main__':
-    row_num, col_num = map(int, input().split())
-    if col_num in (0, 1):
-        print(0)
-    else:
-        string_matrix = []
-        for row in range(row_num):
-            string_matrix.append(input())
-        converted_matrix = convert_matrix(string_matrix, row_num, col_num)
-        print(counter(converted_matrix, row_num-1))
+    R, C = map(int, input().split())
+    strings = [None] * R
+    for i in range(R):
+        strings[i] = input()
 
+    str_map = {}
+    max_cnt = 0
 
+    for i in range(C):
+        max_cnt = max(max_cnt, create_map_and_cnt(str_map, C, R, strings, i))
+        # print(max_cnt, str_map)
+    print(R-max_cnt-1)
