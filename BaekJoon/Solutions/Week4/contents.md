@@ -24,10 +24,10 @@
 ## Advanced Questions
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
-|1.  |[부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [221008 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py/Sol_A_221008_1208.py) |
-|2.  |[사전](https://www.acmicpc.net/problem/1256) | [221009 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py/Sol_B_221009_1256.py) |
-|3.  |[선물 전달](https://www.acmicpc.net/problem/1947) | [221009 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py/Sol_C_221009_1947.py) |
-|4.  |[외판원 순회](https://www.acmicpc.net/problem/2098) | [221031 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py/Sol_D_221031_2098.py) |
+|1.  |[부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [221008 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py_adv/Sol_A_221008_1208.py) |
+|2.  |[사전](https://www.acmicpc.net/problem/1256) | [221009 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py_adv/Sol_B_221009_1256.py) |
+|3.  |[선물 전달](https://www.acmicpc.net/problem/1947) | [221009 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py_adv/Sol_C_221009_1947.py) |
+|4.  |[외판원 순회](https://www.acmicpc.net/problem/2098) | [221031 with Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week4/py_adv/Sol_D_221031_2098.py) |
 |5.  |[합분해](https://www.acmicpc.net/problem/2225) | |
 |6.  |[눌러서 잠금 해제](https://www.acmicpc.net/problem/2723) | |
 |7.  |[알약](https://www.acmicpc.net/problem/4811) | |
