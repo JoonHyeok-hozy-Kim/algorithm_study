@@ -21,9 +21,9 @@
 ## Advanced Questions
 |No.  |Question|Trial 1|
 |:---:|:------:|:-----:|
-|1. |[선 긋기](https://www.acmicpc.net/problem/2170 ) |[]() |
-|2. |[Q](https://www.acmicpc.net/problem/5884 ) |[]() |
-|3. |[Q](https://www.acmicpc.net/problem/13316) |[]() |
-|4. |[Q](https://www.acmicpc.net/problem/16069) |[]() |
-|5. |[Q](https://www.acmicpc.net/problem/16936) |[]() |
-|6. |[Q](https://www.acmicpc.net/problem/20652) |[]() |
+|1. |[선 긋기](https://www.acmicpc.net/problem/2170 ) | [221216 with C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp_adv/Sol_01_221216_2170.cpp) |
+|2. |[감시 카메라](https://www.acmicpc.net/problem/5884 ) | [:broken_heart: 221221 with C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/cpp_adv/Sol_02_221220_5884.cpp) |
+|3. |[std::정렬부터 시작하는 디버깅 생활](https://www.acmicpc.net/problem/13316) | []() |
+|4. |[Q](https://www.acmicpc.net/problem/16069) | []() |
+|5. |[Q](https://www.acmicpc.net/problem/16936) | []() |
+|6. |[Q](https://www.acmicpc.net/problem/20652) | []() |

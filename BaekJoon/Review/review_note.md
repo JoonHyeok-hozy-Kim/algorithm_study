@@ -12,6 +12,7 @@
 |Question|Trial 1|
 |--------|-------|
 |[삼각형 만들기](https://www.acmicpc.net/problem/1448) | |
+|[감시 카메라](https://www.acmicpc.net/problem/5884) | |
 | | |
 | | |
 | | |
