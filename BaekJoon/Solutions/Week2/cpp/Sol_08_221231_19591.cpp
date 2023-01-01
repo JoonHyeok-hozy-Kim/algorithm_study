@@ -29,7 +29,7 @@ ll operate(ll oprnd1, ll oprnd2, char oprtr){
 }
 
 void compare(deque<ll> * nd, deque<char> * od){
-    int front_num, back_num, front_temp, back_temp;
+    ll front_num, back_num, front_temp, back_temp;
     if ((od->front() == '*' || od->front() == '/') && (od->back() == '+' || od->back() == '-')){
         front_num = nd->front();
         nd->pop_front();
@@ -93,9 +93,9 @@ int main(){
     deque<char> opr_deque;
 
     int cnt = 0;
-    int sign;
+    ll sign;
     ll temp_num;
-    ll zero_ascii = '0';
+    int zero_ascii = '0';
     // cout << zero_ascii << endl;
     bool new_num = true;
 
@@ -109,11 +109,11 @@ int main(){
         if (isalnum(*i)){
             // cout << "alnum : " << *i << endl;
             if (new_num){
-                temp_num = (ll) *i - zero_ascii;
+                temp_num = (ll) (*i - zero_ascii);
                 new_num = false;
             } else {
                 temp_num *= 10;
-                temp_num += (ll) *i - zero_ascii;
+                temp_num += (ll) (*i - zero_ascii);
             }
         } else {
             // cout << "els : " << *i << endl;
