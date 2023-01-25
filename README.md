@@ -12,3 +12,6 @@
 #### Week 8. [Tree Algorithms](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week8/contents.md)
 #### Week 9. [Shortest Path Finding (Dijkstra, Floyd-Warshall, and Bellman-Ford)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/contents.md)
 #### Week 10. [Union/Find and Minimum Spanning Tree (Kruskal and Prim-Jarnik)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week10/contents.md)
+
+
+## 2. [LeetCode](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/main.md)
