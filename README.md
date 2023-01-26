@@ -1,7 +1,7 @@
 # algorithm_study
 
 ## 1. Baek Joon Online Judge ([Go Baek Joon](https://www.acmicpc.net/))
-### [:blue_book: Review Note](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Review/review_note.md)
+<!-- ### [:blue_book: Review Note](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Review/review_note.md) -->
 #### Week 1. [Time Complexity, Sorting, Full Scan](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/contents.md)
 #### Week 2. [Stacks, Queues, Dequeues](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week2/contents.md)
 #### Week 3. [Brute Forcing, Back Tracking](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week3/contents.md)
@@ -13,5 +13,6 @@
 #### Week 9. [Shortest Path Finding (Dijkstra, Floyd-Warshall, and Bellman-Ford)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week9/contents.md)
 #### Week 10. [Union/Find and Minimum Spanning Tree (Kruskal and Prim-Jarnik)](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week10/contents.md)
 
+---
 
 ## 2. [LeetCode](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/main.md)
