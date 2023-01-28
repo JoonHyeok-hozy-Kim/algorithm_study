@@ -15,6 +15,9 @@
 |2023.01.27|[Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230127_02.cpp)|
 |2023.01.27|[Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230127_03.cpp)|
 |2023.01.27|[Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230127_04.cpp)|
+|2023.01.28|[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_01.cpp)|
+|2023.01.28|[Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_02.cpp)|
+|2023.01.28|[Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_03.cpp)|
 
 </p>   
 </details>
