@@ -18,8 +18,8 @@
 |2023.01.28|[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_01.cpp)|
 |2023.01.28|[Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_02.cpp)|
 |2023.01.28|[Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_03.cpp)|
-|2023.01.28|[Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_01.cpp)|
-|2023.01.28|[Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_02.cpp)|
+|2023.01.29|[Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_01.cpp)|
+|2023.01.29|[Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_02.cpp)|
 
 </p>   
 </details>
