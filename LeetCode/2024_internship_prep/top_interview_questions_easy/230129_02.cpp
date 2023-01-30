@@ -25,3 +25,17 @@ int reverse(int x) {
     
     return result;
 }
+
+int reverse(int x) {
+    long long r = 0;
+    while (x){
+        r *= 10;
+        r += x%10;
+        x /= 10;
+    }
+
+    int int_max = (2<<29) - 1 + (2<<29);
+    int int_min = -(2<<29) - (2<<29);
+    if (r > int_max || r < int_min) return 0;
+    return r;
+}
