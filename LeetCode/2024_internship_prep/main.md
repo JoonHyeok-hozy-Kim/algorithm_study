@@ -23,6 +23,7 @@
 |2023.01.30|[First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230130_01.cpp)|
 |2023.01.30|[Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230130_02.cpp)|
 |2023.01.30|[Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230130_03.cpp)|
+|2023.01.31|[String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230131_01.cpp)|
 
 
 
