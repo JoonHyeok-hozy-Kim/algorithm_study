@@ -44,6 +44,7 @@
         "queue": "cpp",
         "unordered_set": "cpp",
         "map": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "ex_optimization_diy": "cpp"
     }
 }
