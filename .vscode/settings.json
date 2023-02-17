@@ -45,6 +45,7 @@
         "unordered_set": "cpp",
         "map": "cpp",
         "set": "cpp",
-        "ex_optimization_diy": "cpp"
+        "ex_optimization_diy": "cpp",
+        "list": "cpp"
     }
 }
