@@ -14,7 +14,7 @@ class Solution:
         while (Q):
             popped_node = Q[0][0]
             popped_level = Q[0][1]
-            Q.popleft();
+            Q.popleft()
             
             if popped_node is None:
                 continue

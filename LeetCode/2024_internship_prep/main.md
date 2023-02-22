@@ -7,7 +7,7 @@
 
 |Date|Problem|Solution|
 |:--:|:------|:------:|
-|2023.01.25|[Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230125_01.cpp)|
+|2023.01.25|[Remove Duplicates from Sorted Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230125_01.cpp)|
 |2023.01.26|[Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230126_01.cpp)|
 |2023.01.26|[Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230126_02.cpp)|
 |2023.01.26|[Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230126_03.cpp)|
@@ -17,9 +17,9 @@
 |2023.01.27|[Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230127_04.cpp)|
 |2023.01.28|[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_01.cpp)|
 |2023.01.28|[Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_02.cpp)|
-|2023.01.28|[Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_03.cpp)|
+|2023.01.28|[Rotate Image :broken_heart: ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230128_03.cpp)|
 |2023.01.29|[Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_01.cpp)|
-|2023.01.29|[Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_02.cpp)|
+|2023.01.29|[Reverse Integer :broken_heart: ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230129_02.cpp)|
 |2023.01.30|[First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230130_01.cpp)|
 |2023.01.30|[Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230130_02.cpp)|
 |2023.01.30|[Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230130_03.cpp)|
@@ -30,18 +30,18 @@
 |2023.02.16|[Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230216_01.cpp)|
 |2023.02.16|[Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230216_02.cpp)|
 |2023.02.17|[Merge Two Sorted Lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230217_01.cpp)|
-|2023.02.17|[Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230217_02.cpp)|
-|2023.02.18|[Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)|[:broken_heart: C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230218_01.cpp)|
+|2023.02.17|[Palindrome Linked List :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230217_02.cpp)|
+|2023.02.18|[Linked List Cycle :broken_heart: ](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230218_01.cpp)|
 |2023.02.18|[Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230218_01.cpp)|
 |2023.02.19|[Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230219_01.cpp)|
 |2023.02.19|[Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230219_02.cpp)|
 |2023.02.21|[Binary Tree Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230221_01.py)|
 |2023.02.21|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230221_02.py)|
-
+|2023.02.22|[Merge Sorted Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230222_01.py)|
+|2023.02.22|[First Bad Version :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230222_02.py)|
 
 
 </p>   
 </details>
-
 
 #### Back to [main](https://github.com/JoonHyeok-hozy-Kim/algorithm_study#readme)
