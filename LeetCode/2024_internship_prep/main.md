@@ -39,6 +39,8 @@
 |2023.02.21|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230221_02.py)|
 |2023.02.22|[Merge Sorted Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230222_01.py)|
 |2023.02.22|[First Bad Version :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230222_02.py)|
+|2023.02.23|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230223_01.py)|
+|2023.02.23|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230223_02.py)|
 
 
 </p>   
