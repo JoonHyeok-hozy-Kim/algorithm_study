@@ -17,5 +17,5 @@ if __name__ == '__main__':
     draw_line(S, 16, 3, 5, 3)
 
     for i in range(16):
-        print(bin(S[i]))
+        print("{}".format(bin(S[i])))
 
