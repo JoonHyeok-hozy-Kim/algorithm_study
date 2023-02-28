@@ -117,19 +117,58 @@
 # 6.8 The Egg Drop Problem
 ### There is a building of 100 floors. If an egg drops from the Nth floor or above, it will break. If it's dropped from any floor below, it will not break. You're given two eggs. Find N, while minimizing the number of drops for the worst case. 
 
-* Try dropping eggs on the $(3k-1)$-th floor
-  1. Drop an egg from the 2nd floor.
-     1. If the egg breaks, drop another on the 1st floor.
-        1. If the egg breaks, N = 0
-        2. Else, N = 1
-     2. Else, go on.
-  2. Drop an egg from the 4th floor.
-     1. If the egg breaks, drop another on the 3th floor.
-        1. If the egg breaks, N = 2
-        2. Else, N = 3
-     2. Else, go on.
-  3. Drop an egg from the 10th floor.
-     1. If the egg breaks, drop another on the 9th floor.
-        1. If the egg breaks, N = 4
-        2. Else, N = 3
-     2. Else, go on.
+* Sol.
+  * Load balancing is required
+  * How?
+    * Let two eggs, e1 and e2, where e1 will be dropped prior to egg2.
+    * Dropping scenario for e1 and e2 can be depicted as follows.
+      1. Suppose e1 was dropped on f1 floor.
+        * If e1 breaks, then e2 should be dropped at most f1-1 times.
+          * why?) 1 ~ f1-1
+      2. Else, we may drop e1 on (f1+f2) floor.
+        * If e1 breaks, then e2 should be drooped at most f2-1 times.
+          * why?) (f1+1) ~ (f1+f2-1)
+      3. Else, we may drop e1 on (f1+f2+f3) floor.
+        * If e1 breaks, then e2 should be drooped at most f3-1 times.
+          * why?) (f1+f2+1) ~ (f1+f2+f3-1)
+    * We may balance the load of e2 by gradually reducing the potential drop of e2.
+      * We can achieve this by setting f2 = f1-1, f3 = f2-1, ... , fn = f(n-1)-1
+      * Thus, set f1 such that f1 + (f1-1) + (f1-2) + ... + 1 = 100
+      * Then f1 = 13.65
+    * Now compare f1 = 13 and f1 = 14
+      * Case 1) f1 = 13
+         |Round|1|2|3|4|5|6|7|8|9|
+         |---|-|-|-|-|-|-|-|-|-|
+         |e1 Steps|13|12|11|10|9|8|7|6|5|4|3|2|1|
+         |e1 New Floor|13|25|36|46|55|63|70|76|81|85|88|90|91|
+         |e2 Potential Drops|12|11|10|9|8|7|6|5|4|3|2|1|**10**|
+         * Final potential drop of e2 is 10 -> NOT BALANCED!
+      * Case 1) f1 = 13
+         |Round|1|2|3|4|5|6|7|8|9|
+         |---|-|-|-|-|-|-|-|-|-|
+         |e1 Steps|14|13|12|11|10|9|8|7|6|5|4|
+         |e1 New Floor|14|27|39|50|60|69|77|84|90|95|99|
+         |e2 Potential Drops|13|12|11|10|9|8|7|6|5|4|3|
+         * Balanced!
+    * Therefore, 14 is idealistic! 
+
+
+# 6.9 100 Lockers
+### There are 100 closed lockers in a hallway. A man begins by opening all 100 lockers. Next, he closes every second locker. Then, on his third pass, he toggles every third locker (closes it if it is open or opens it if it is closed). This process continues for 100 passes, such that on each pass i, the man toggles every ith locker. After his 100th pass in the hallway, in which he toggles only locker #100, how many lockers are open?
+
+* Sol
+  * The i-th locker must have been toggled by (the number of divisors excluding 1) times
+    |i       |**1**|2|3|**4**|5|6|7|8|**9**|10|
+    |--------|-|-|-|-|-|-|-|-|-|--|
+    |divisors|-|2|3|2,4|5|2,3,6|7|2,4,8|3,9|2,5,10|
+    |count   |**0**|1|1|**2**|1|3|1|3|**2**|3|
+  * Only the perfect square numbers will be left opened!
+
+
+# 6.10 Poison
+### You have 1000 bottles of soda, and exactly one is poisoned. You have 10 test strips which can be used to detect poison. A single drop of poison will turn the test strip positive permanently. You can put any number of drops on a test strip at once and you can reuse a test strip as many times as you'd like (as long as the results are negative). However, you can only run tests once per day and it takes seven days to return a result. How would you figure out the poisoned bottle in as few days as possible? 
+* FOLLOW UP 
+### Write code to simulate your approach. 
+
+* Sol
+  * By implementing binary search, you may get the result in 70 days.
