@@ -47,6 +47,10 @@
 |2023.02.26|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230226_02.py)|
 |2023.02.27|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230227_01.py)|
 |2023.02.27|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230227_02.py)|
+|2023.03.03|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230303_01.py)|
+|2023.03.03|[Roman to Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230303_02.py)|
+|2023.03.04|[Number of 1 Bits](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/565/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230304_01.py)|
+|2023.03.04|[Hamming Distance](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/762/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230304_02.py)|
 
 
 </p>   
