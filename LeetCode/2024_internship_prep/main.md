@@ -53,6 +53,8 @@
 |2023.03.04|[Hamming Distance](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/762/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230304_02.py)|
 |2023.03.05|[Reverse Bits](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/648/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230305_01.py)|
 |2023.03.05|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230305_02.py)|
+|2023.03.08|[Valid Parentheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230308_01.py)|
+|2023.03.08|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230308_02.py)|
 
 
 </p>   
