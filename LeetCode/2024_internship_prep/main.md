@@ -66,6 +66,7 @@
 |Date|Problem|Solution|
 |:--:|:------|:------:|
 |2023.03.09|[3Sum :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230309_01.py)|
+|2023.03.09|[Set Matrix Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230309_02.py)|
 
 
 </p>   
