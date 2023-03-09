@@ -65,7 +65,7 @@
 
 |Date|Problem|Solution|
 |:--:|:------|:------:|
-|2023.01.25|[Remove Duplicates from Sorted Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)|[C++](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_easy/230125_01.cpp)|
+|2023.03.09|[3Sum :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230309_01.py)|
 
 
 </p>   
