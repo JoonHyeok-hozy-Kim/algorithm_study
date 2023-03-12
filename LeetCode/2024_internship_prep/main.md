@@ -70,6 +70,8 @@
 |2023.03.09|[Group Anagrams](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230309_03.py)|
 |2023.03.10|[Longest Substring Without Repeating Characters :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230310_01.py)|
 |2023.03.10|[Longest Palindromic Substring :broken_heart: (DP :broken_heart:)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230310_02.py)|
+|2023.03.12|[Increasing Triplet Subsequence :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230312_01.py)|
+|2023.03.12|[Count and Say](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/4153/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230312_02.py)|
 
 
 </p>   
