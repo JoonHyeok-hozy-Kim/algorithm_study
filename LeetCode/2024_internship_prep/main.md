@@ -72,6 +72,9 @@
 |2023.03.10|[Longest Palindromic Substring :broken_heart: (DP :broken_heart:)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230310_02.py)|
 |2023.03.12|[Increasing Triplet Subsequence :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230312_01.py)|
 |2023.03.12|[Count and Say](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/4153/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230312_02.py)|
+|2023.03.13|[Add Two Numbers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/783/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230313_01.py)|
+|2023.03.13|[Odd Even Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230313_02.py)|
+
 
 
 </p>   
