@@ -74,6 +74,8 @@
 |2023.03.12|[Count and Say](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/4153/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230312_02.py)|
 |2023.03.13|[Add Two Numbers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/783/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230313_01.py)|
 |2023.03.13|[Odd Even Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230313_02.py)|
+|2023.03.15|[Intersection of Two Linked Lists (In-place Sol :broken_heart:)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230315_01.py)|
+|2023.03.15|[Binary Tree Inorder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230315_02.py)|
 
 
 
