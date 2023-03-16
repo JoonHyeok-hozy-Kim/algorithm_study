@@ -76,6 +76,7 @@
 |2023.03.13|[Odd Even Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230313_02.py)|
 |2023.03.15|[Intersection of Two Linked Lists (In-place Sol :broken_heart:)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230315_01.py)|
 |2023.03.15|[Binary Tree Inorder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230315_02.py)|
+|2023.03.16|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230316_01.py)|
 
 
 
