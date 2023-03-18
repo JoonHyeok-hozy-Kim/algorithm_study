@@ -31,8 +31,3 @@ class Solution(object):
                 
             if node.right:
                 self._inorder_traversal(node.right)
-                    
-            
-        
-        
-        

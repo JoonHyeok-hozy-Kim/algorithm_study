@@ -80,6 +80,8 @@
 |2023.03.16|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/788/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230316_02.py)|
 |2023.03.17|[Populating Next Right Pointers in Each Node](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230317_01.py)|
 |2023.03.17|[Kth Smallest Element in a BST](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/790/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230317_02.py)|
+|2023.03.18|[Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230318_01.py)|
+|2023.03.18|[Letter Combinations of a Phone Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/793/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230318_02.py)|
 
 
 </p>   
