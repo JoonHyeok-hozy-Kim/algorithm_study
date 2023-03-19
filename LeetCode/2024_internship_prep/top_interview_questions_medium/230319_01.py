@@ -5,16 +5,17 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         result = []
-        self._recursive(nums, 0, len(nums)-1, result)
+        self._recursive(nums, 0, len(nums), result)
         return result
         
-    def _recursive(self, nums, left, right, R):
-        if left == right:
+        
+    def _recursive(self, nums, start, end, R):
+        if start == end:
             R.append(nums[:])
             return
         
-        for i in range(left, right+1):            
-            nums[left], nums[i] = nums[i], nums[left]
-            self._recursive(nums, left+1, right, R)
-            nums[left], nums[i] = nums[i], nums[left]
+        for i in range(start, end):
+            nums[start], nums[i] = nums[i], nums[start]
+            self._recursive(nums, start+1, end, R)
+            nums[start], nums[i] = nums[i], nums[start]
             
