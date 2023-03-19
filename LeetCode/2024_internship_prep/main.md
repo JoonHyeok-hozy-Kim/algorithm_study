@@ -83,6 +83,7 @@
 |2023.03.18|[Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230318_01.py)|
 |2023.03.18|[Letter Combinations of a Phone Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/793/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230318_02.py)|
 |2023.03.18|[Generate Parentheses](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230318_03.py)|
+|2023.03.19|[Permutations :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230319_01.py)|
 
 
 </p>   
