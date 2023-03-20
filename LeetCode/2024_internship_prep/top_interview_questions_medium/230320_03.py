@@ -1,24 +1,19 @@
 class Solution:
-    def findKthLargest(self, nums: list[int], k: int) -> int:
-        dp = [None] * ((10**4) * 2 + 1)
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        dp = [0] * ((10**4) * 2 + 1)
         max_idx = 0
         
         for i, v in enumerate(nums):
             max_idx = max(max_idx, v + (10**4))
-            dp[v + (10**4)] = True
-        
-        print(len(dp), max_idx)
+            dp[v + (10**4)] += 1
             
-        while k > 1:
-            max_idx -= 1
-            while dp[max_idx] is None:
+        for i in range(1, k):
+            if dp[max_idx] > 0:
+                dp[max_idx] -= 1
+                k -= 1
+            
+            while dp[max_idx] == 0:
                 max_idx -= 1
-            k -= 1
-            print(k, max_idx)
+                
         
         return max_idx - 10**4
-
-if __name__ == '__main__':
-    s = Solution()
-    a = [i for i in range(10)]
-    print(s.findKthLargest(a, 3))
