@@ -86,6 +86,9 @@
 |2023.03.19|[Permutations :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230319_01.py)|
 |2023.03.19|[Subsets](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230319_02.py)|
 |2023.03.19|[Word Search :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230319_03.py)|
+|2023.03.20|[Sort Colors (Two Pointers :broken_heart:)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_01.py)|
+|2023.03.20|[Top K Frequent Elements](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_02.py)|
+|2023.03.20|[Kth Largest Element in an Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/800/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_03.py)|
 
 
 </p>   
