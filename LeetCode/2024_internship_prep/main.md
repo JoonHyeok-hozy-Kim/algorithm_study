@@ -89,6 +89,11 @@
 |2023.03.20|[Sort Colors (Two Pointers :broken_heart:)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_01.py)|
 |2023.03.20|[Top K Frequent Elements](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_02.py)|
 |2023.03.20|[Kth Largest Element in an Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/800/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_03.py)|
+|2023.03.22|[Find Peak Element :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_01.py)|
+|2023.03.22|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_02.py)|
+|2023.03.22|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_03.py)|
+
+|2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_01.py)|
 
 
 </p>   
