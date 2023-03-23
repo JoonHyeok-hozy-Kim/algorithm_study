@@ -90,10 +90,14 @@
 |2023.03.20|[Top K Frequent Elements](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_02.py)|
 |2023.03.20|[Kth Largest Element in an Array :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/800/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_03.py)|
 |2023.03.22|[Find Peak Element :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_01.py)|
-|2023.03.22|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_02.py)|
-|2023.03.22|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_03.py)|
+|2023.03.22|[Search for a Range](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_02.py)|
+|2023.03.22|[Merge Intervals :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_03.py)|
+|2023.03.23|[Search in Rotated Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230323_01.py)|
+|2023.03.24|[Search a 2D Matrix II](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_01.py)|
+|2023.03.24|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_02.py)|
+|2023.03.24|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_03.py)|
 
-|2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230320_01.py)|
+|2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230_01.py)|
 
 
 </p>   
