@@ -93,9 +93,8 @@
 |2023.03.22|[Search for a Range](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_02.py)|
 |2023.03.22|[Merge Intervals :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230322_03.py)|
 |2023.03.23|[Search in Rotated Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230323_01.py)|
-|2023.03.24|[Search a 2D Matrix II](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_01.py)|
-|2023.03.24|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_02.py)|
-|2023.03.24|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_03.py)|
+|2023.03.24|[Search a 2D Matrix II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_01.py)|
+|2023.03.24|[Jump Game :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_02.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230_01.py)|
 
