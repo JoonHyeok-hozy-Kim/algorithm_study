@@ -95,6 +95,9 @@
 |2023.03.23|[Search in Rotated Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230323_01.py)|
 |2023.03.24|[Search a 2D Matrix II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_01.py)|
 |2023.03.24|[Jump Game :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230324_02.py)|
+|2023.03.25|[Unique Paths](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230325_01.py)|
+|2023.03.25|[Coin Change](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230325_02.py)|
+|2023.03.25|[Longest Increasing Subsequence [O(nlogn) sol] :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/810/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230325_03.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230_01.py)|
 
