@@ -2,17 +2,25 @@
 
 
 class ExclusiveNumSet:
-    def __init__(self):
+    def __init__(self, min):
+        self._min = min
         self._max = -1
         self._set = set()
     
     def add_num(self, val):
-        if val > self._max:
+        if self._max == -1:
+            for i in range(self.min+1, val):
+                self._set.add(i)
+        elif val > self._max:
             for i in range(self._max+1, val):
                 self._set.add(i)
             self._max = val
         elif val in self._set:
             self._set.remove(val)
+
+class MissingInt:
+    def __init__(self):
+        self._num_sets = []
     
 
 if __name__ == '__main__':

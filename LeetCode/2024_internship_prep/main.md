@@ -101,6 +101,9 @@
 |2023.03.26|[Serialize and Deserialize Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/812/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230326_01.py)|
 |2023.03.26|[Insert Delete GetRandom O(1) :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/813/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230326_02.py)|
 |2023.03.26|[Happy Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/815/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230326_03.py)|
+|2023.03.27|[Factorial Trailing Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/816/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230327_01.py)|
+|2023.03.27|[Excel Sheet Column Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/817/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230327_02.py)|
+|2023.03.27|[Pow(x, n)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230327_03.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230_01.py)|
 
