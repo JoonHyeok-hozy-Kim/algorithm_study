@@ -104,6 +104,8 @@
 |2023.03.27|[Factorial Trailing Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/816/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230327_01.py)|
 |2023.03.27|[Excel Sheet Column Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/817/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230327_02.py)|
 |2023.03.27|[Pow(x, n)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230327_03.py)|
+|2023.03.28|[Sqrt(x)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/819/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230328_01.py)|
+|2023.03.28|[Divide Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/820/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230328_02.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230_01.py)|
 
