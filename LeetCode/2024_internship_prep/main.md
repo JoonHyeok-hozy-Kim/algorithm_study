@@ -118,4 +118,24 @@
 </p>   
 </details>
 
+</p>   
+</details>
+<details>
+<summary>3. Top Interview Questions (Hard)</summary>
+<p>
+
+|Date|Problem|Solution|
+|:--:|:------|:------:|
+|2023.04.02|[Product of Array Except Self :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230402_01.py)|
+|2023.04.02|[Spiral Matrix](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230402_02.py)|
+
+|2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
+
+
+</p>   
+</details>
+
+
+
+
 #### Back to [main](https://github.com/JoonHyeok-hozy-Kim/algorithm_study#readme)
