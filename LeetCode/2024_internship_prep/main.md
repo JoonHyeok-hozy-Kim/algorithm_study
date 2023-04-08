@@ -130,6 +130,8 @@
 |2023.04.02|[Spiral Matrix](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230402_02.py)|
 |2023.04.06|[4Sum II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/829/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230406_01.py)|
 |2023.04.06|[Container With Most Water :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/830/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230406_02.py)|
+|2023.04.08|[Game of Life](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/831/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230408_01.py)|
+|2023.04.08|[First Missing Positive](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230408_02.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
