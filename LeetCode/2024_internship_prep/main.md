@@ -134,6 +134,8 @@
 |2023.04.08|[First Missing Positive :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230408_02.py)|
 |2023.04.09|[Longest Consecutive Sequence :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/833/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230409_01.py)|
 |2023.04.09|[Find the Duplicate Number :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230409_02.py)|
+|2023.04.10|[Basic Calculator II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/836/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230410_01.py)|
+|2023.04.10|[Sliding Window Maximum :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/837/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230410_02.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
