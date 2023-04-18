@@ -1,39 +1,29 @@
-from collections import deque
-
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def minWindow(self, s: str, t: str) -> str:
-        char_cnt = {}
-        window = deque()
-        t_set = set(t)
-        start, end = None, None
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        result = ListNode()
+        heap = []
         
-        for c in t:
-            if c in char_cnt:
-                char_cnt[c] += 1
-            else:
-                char_cnt[c] = 1
+        if len(lists) == 0:
+            return None
         
-        for i, c in enumerate(s):
-            if c in char_cnt:
-                while len(window) > 0 and \
-                (char_cnt[window[0][0]] < 0 or (window[0][0] == c and char_cnt[c] == 0)):
-                    popped = window.popleft()
-                    char_cnt[popped[0]] += 1
-                
-                window.append((c, i))
-                char_cnt[c] -= 1
-                
-                if char_cnt[c] == 0 and c in t_set:
-                    t_set.remove(c)
-                
-                if len(t_set) == 0:
-                    if start is None or end - start > window[-1][1] - window[0][1]:
-                        start, end = window[0][1], window[-1][1]
-                        popped = window.popleft()
-                        char_cnt[popped[0]] += 1
-                        t_set.add(popped[0])
+        for i, l in enumerate(lists):
+            if l is not None:
+                heappush(heap, (l.val, i, l))
+                lists[i] = l.next
         
-        if start is None:
-            return ""
-        else:
-            return s[start:end+1]
+        walk = result
+        while len(heap) > 0:
+            pv, pi, pn = heappop(heap)
+            walk.next = pn
+            walk = walk.next
+            
+            if lists[pi] is not None:
+                heappush(heap, (lists[pi].val, pi, lists[pi]))
+                lists[pi] = lists[pi].next
+        
+        return result.next
