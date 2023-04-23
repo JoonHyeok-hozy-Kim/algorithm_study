@@ -139,6 +139,8 @@
 |2023.04.17|[Minimum Window Substring :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/838/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230417_01.py)|
 |2023.04.18|[Merge k Sorted Lists :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/839/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230418_01.py)|
 |2023.04.18|[Sort List :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/839/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230418_02.py)|
+|2023.04.19|[Copy List with Random Pointer](https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/841/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230419_01.py)|
+|2023.04.23|[Word Break :broken_heart:](https://leetcode.com/problems/word-break/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230423_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
