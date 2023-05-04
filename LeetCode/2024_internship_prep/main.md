@@ -142,6 +142,7 @@
 |2023.04.19|[Copy List with Random Pointer](https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/841/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230419_01.py)|
 |2023.04.23|[Word Break :broken_heart:](https://leetcode.com/problems/word-break/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230423_01.py)|
 |2023.04.25|[Word Ladder :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/842/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230425_01.py)|
+|2023.05.04|[Longest Repeating Character Replacement :broken_heart:](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230504_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
