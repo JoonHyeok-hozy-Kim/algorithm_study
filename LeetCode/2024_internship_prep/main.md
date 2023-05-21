@@ -147,6 +147,7 @@
 |2023.05.09|[Lowest Common Ancestor of a Binary Tree :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/844/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230509_01.py)|
 |2023.05.13|[Binary Tree Maximum Path Sum](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/845/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230513_01.py)|
 |2023.05.15|[Friend Circles](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/846/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230515_01.py)|
+|2023.05.21|[Course Schedule :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/847/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230521_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
