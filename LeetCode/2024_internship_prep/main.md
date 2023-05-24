@@ -150,6 +150,8 @@
 |2023.05.21|[Course Schedule :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/847/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230521_01.py)|
 |2023.05.21|[Course Schedule II](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/847/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230521_02.py)|
 |2023.05.22|[Longest Increasing Path in a Matrix :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/847/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230521_02.py)|
+|2023.05.24|[Count of Smaller Numbers After Self :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/851/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230524_01.py)|
+|2023.05.24|[Palindrome Partitioning](https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/852/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230524_02.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
