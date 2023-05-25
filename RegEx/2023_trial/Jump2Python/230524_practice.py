@@ -24,7 +24,7 @@ print(p.search("c.bat"))
 # print(p.search("c.bate"))     # 4자리 이상 파일 확장자 지원 불가
 
 # Ex.2-2) Using Negative Lookahead Assertions
-p = re.compile(".*[.](?!=bat).*$")
+p = re.compile(".*[.](?!=bat$).*$")
 print(p.search("a.txt").group())
 print(p.search("b.cf").group())
 print(p.search("c.bat").group())
