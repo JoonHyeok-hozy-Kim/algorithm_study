@@ -155,6 +155,7 @@
 |2023.05.25|[Word Search II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/119/backtracking/853/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230525_01.py)|
 |2023.05.26|[Remove Invalid Parentheses :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/119/backtracking/854/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230526_01.py)|
 |2023.05.28|[Wildcard Matching :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/119/backtracking/855/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230528_01.py)|
+|2023.05.29|[Regular Expression Matching :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/119/backtracking/856/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230529_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
