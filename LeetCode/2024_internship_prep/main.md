@@ -111,6 +111,7 @@
 |2023.04.01|[Evaluate Reverse Polish Notation :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/823/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230401_01.py)|
 |2023.04.01|[Majority Element :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230401_02.py)|
 |2023.04.01|[Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/826/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230401_03.py)|
+|2023.06.04|[Gas Station :broken_heart:](https://leetcode.com/problems/gas-station/description/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230604_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_medium/230_01.py)|
 
@@ -157,6 +158,7 @@
 |2023.05.28|[Wildcard Matching :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/119/backtracking/855/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230528_01.py)|
 |2023.05.29|[Regular Expression Matching :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/119/backtracking/856/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230529_01.py)|
 |2023.05.31|[Wiggle Sort II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/120/sorting-and-searching/857/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230531_01.py)|
+|2023.06.05|[Kth Smallest Element in a Sorted Matrix :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/120/sorting-and-searching/858/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230605_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
