@@ -160,6 +160,7 @@
 |2023.05.31|[Wiggle Sort II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/120/sorting-and-searching/857/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230531_01.py)|
 |2023.06.05|[Kth Smallest Element in a Sorted Matrix :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/120/sorting-and-searching/858/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230605_01.py)|
 |2023.06.06|[Median of Two Sorted Arrays](https://leetcode.com/explore/interview/card/top-interview-questions-hard/120/sorting-and-searching/859/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230606_01.py)|
+|2023.06.07|[Maximum Product Subarray :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/860/)|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230607_01.py)|
 
 |2023.0.|[]()|[Python](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)|
 
