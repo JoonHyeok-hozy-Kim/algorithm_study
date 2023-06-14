@@ -165,6 +165,7 @@
 |36|[Best Time to Buy and Sell Stock with Cooldown :broken_heart::broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/862/)|[Python 2023.06.11](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230611_01.py)||
 |37|[Perfect Squares](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/863/)|[Python 2023.06.12](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230612_01.py)||
 |38|[Word Break](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/864/)|[Python 2023.06.13](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230613_01.py)||
+|39|[Word Break II](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/865/)|[Python 2023.06.14](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230614_01.py)||
 
 ||[]()|[Python 2023.0.](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)||
 
