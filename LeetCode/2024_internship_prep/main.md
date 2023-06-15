@@ -166,6 +166,7 @@
 |37|[Perfect Squares](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/863/)|[Python 2023.06.12](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230612_01.py)||
 |38|[Word Break](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/864/)|[Python 2023.06.13](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230613_01.py)||
 |39|[Word Break II](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/865/)|[Python 2023.06.14](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230614_01.py)||
+|40|[Burst Balloons :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/866/)|[Python 2023.06.15](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230615_01.py)||
 
 ||[]()|[Python 2023.0.](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)||
 
