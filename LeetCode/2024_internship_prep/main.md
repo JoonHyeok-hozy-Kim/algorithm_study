@@ -169,6 +169,7 @@
 |40|[Burst Balloons :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/866/)|[Python 2023.06.15](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230615_01.py)||
 |41|[LRU Cache](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/867/)|[Python 2023.06.17](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230617_01.py)||
 |42|[Implement Trie (Prefix Tree)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/868/)|[Python 2023.06.18](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230618_01.py)||
+|43|[Flatten Nested List Iterator :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/869/)|[Python 2023.06.20](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230620_01.py)||
 
 ||[]()|[Python 2023.0.](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)||
 
