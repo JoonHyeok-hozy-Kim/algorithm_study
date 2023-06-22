@@ -171,6 +171,7 @@
 |42|[Implement Trie (Prefix Tree)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/868/)|[Python 2023.06.18](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230618_01.py)||
 |43|[Flatten Nested List Iterator :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/869/)|[Python 2023.06.20](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230620_01.py)||
 |44|[Find Median from Data Stream :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/870/)|[Python 2023.06.21](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230621_01.py)||
+|45|[Largest Number](https://leetcode.com/explore/interview/card/top-interview-questions-hard/123/math/872/)|[Python 2023.06.22](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230622_01.py)||
 
 ||[]()|[Python 2023.0.](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)||
 
