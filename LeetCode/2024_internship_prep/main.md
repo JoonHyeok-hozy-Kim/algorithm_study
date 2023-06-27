@@ -173,6 +173,7 @@
 |44|[Find Median from Data Stream :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/870/)|[Python 2023.06.21](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230621_01.py)||
 |45|[Largest Number](https://leetcode.com/explore/interview/card/top-interview-questions-hard/123/math/872/)|[Python 2023.06.22](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230622_01.py)||
 |46|[Queue Reconstruction by Height :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/124/others/874/)|[Python 2023.06.24](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230624_01.py)||
+|47|[Trapping Rain Water](https://leetcode.com/explore/interview/card/top-interview-questions-hard/124/others/875/)|[Python 2023.06.27](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230627_01.py)||
 
 ||[]()|[Python 2023.0.](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)||
 
