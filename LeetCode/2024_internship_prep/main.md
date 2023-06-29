@@ -175,6 +175,7 @@
 |46|[Queue Reconstruction by Height :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/124/others/874/)|[Python 2023.06.24](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230624_01.py)||
 |47|[Trapping Rain Water](https://leetcode.com/explore/interview/card/top-interview-questions-hard/124/others/875/)|[Python 2023.06.27](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230627_01.py)||
 |48|[The Skyline Problem :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/124/others/876/)|[Python 2023.06.28](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230628_01.py)||
+|49[Largest Rectangle in Histogram :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-hard/124/others/877/)|[Python 2023.06.30](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230630_01.py)||
 
 ||[]()|[Python 2023.0.](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/LeetCode/2024_internship_prep/top_interview_questions_hard/230_01.py)||
 
