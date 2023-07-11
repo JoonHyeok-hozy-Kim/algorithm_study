@@ -67,7 +67,7 @@
 
 |No.|Problem|Sol.1|Sol.2|Sol.3|
 |:-:|:------|:---:|:---:|:---:|
-| 1|[3Sum :broken_heart:2](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/)|                                               [Python 23.03.09](./top_interview_questions_medium/230309_01.py)|[230711](./top_interview_questions_medium/230711_01.py)|                   |
+| 1|[3Sum :broken_heart::v:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/)|                                             [Python 23.03.09](./top_interview_questions_medium/230309_01.py)|[230711](./top_interview_questions_medium/230711_01.py)|                   |
 | 2|[Set Matrix Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/)|                                                  [Python 23.03.09](./top_interview_questions_medium/230309_02.py)|                   |                   |
 | 3|[Group Anagrams](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/)|                                                     [Python 23.03.09](./top_interview_questions_medium/230309_03.py)|                   |                   |
 | 4|[Longest Substring Without Repeating Characters :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/779/)|      [Python 23.03.10](./top_interview_questions_medium/230310_01.py)|                   |                   |
