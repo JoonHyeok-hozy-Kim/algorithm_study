@@ -184,7 +184,7 @@
 </details>
 
 <details>
-<summary> <a href="https://neetcode.io/">NeetCode.io</a> </summary>
+<summary> neetcode.io (<a href="https://neetcode.io/">Visit!</a>) </summary>
 <p>
 
 |No.|Problem|Sol.1|Sol.2|Sol.3|
