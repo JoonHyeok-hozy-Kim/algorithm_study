@@ -184,7 +184,7 @@
 </details>
 
 <details>
-<summary> neetcode.io (<a href="https://neetcode.io/">Visit!</a>) </summary>
+<summary> 4. neetcode.io (<a href="https://neetcode.io/">Visit!</a>) </summary>
 <p>
 
 |No.|Problem|Sol.1|Sol.2|Sol.3|
@@ -192,8 +192,14 @@
 | 1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[230809](./neetcode/230809_01.py)|||
 | 2|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[230809](./neetcode/230809_02.py)|||
 | 3|[Two Sum](https://leetcode.com/problems/two-sum/)|[230809](./neetcode/230809_03.py)|||
+| 4|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[230809](./neetcode/230809_04.py)|||
+| 5|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[230809](./neetcode/230809_05.py)|||
+| 6|[Product of Array Except Self :broken_heart:](https://leetcode.com/problems/product-of-array-except-self/)|[230809](./neetcode/230809_06.py)|||
 
-||[]()|[Python ](./neetcode/230_01.py)|||
+
+
+
+||[]()|[230809](./neetcode/230_01.py)|||
 
 </p>   
 </details>
