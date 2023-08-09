@@ -184,7 +184,7 @@
 </details>
 
 <details>
-<summary>2. Top Interview Questions (Medium)</summary>
+<summary> [NeetCode.io](https://neetcode.io/) </summary>
 <p>
 
 |No.|Problem|Sol.1|Sol.2|Sol.3|
