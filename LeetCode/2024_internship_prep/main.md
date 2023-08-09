@@ -95,7 +95,7 @@
 |26|[Search for a Range](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/)|                                             [Python 23.03.22](./top_interview_questions_medium/230322_02.py)|                                                       ||
 |27|[Merge Intervals :broken_heart::v:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/)|                              [Python 23.03.22](./top_interview_questions_medium/230322_03.py)|[230715](./top_interview_questions_medium/230715_01.py)||
 |28|[Search in Rotated Sorted Array :broken_heart::v:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/)|               [Python 23.03.23](./top_interview_questions_medium/230323_01.py)|[230714](./top_interview_questions_medium/230714_04.py)||
-|29|[Search a 2D Matrix II :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/)|                           [Python 23.03.24](./top_interview_questions_medium/230324_01.py)|                                                       ||
+|29|[Search a 2D Matrix II :broken_heart::v:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/)|                        [Python 23.03.24](./top_interview_questions_medium/230324_01.py)|[230714](./top_interview_questions_medium/230324_01.py)||
 |30|[Jump Game :broken_heart:](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/)|                                         [Python 23.03.24](./top_interview_questions_medium/230324_02.py)|                                                       ||
 |31|[Unique Paths](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/)|                                                     [Python 23.03.25](./top_interview_questions_medium/230325_01.py)|                                                       ||
 |32|[Coin Change](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)|                                                      [Python 23.03.25](./top_interview_questions_medium/230325_02.py)|                                                       ||
@@ -183,6 +183,20 @@
 </p>   
 </details>
 
+<details>
+<summary>2. Top Interview Questions (Medium)</summary>
+<p>
+
+|No.|Problem|Sol.1|Sol.2|Sol.3|
+|:-:|:------|:---:|:---:|:---:|
+| 1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[230809](./neetcode/230809_01.py)|||
+| 2|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[230809](./neetcode/230809_02.py)|||
+| 3|[Two Sum](https://leetcode.com/problems/two-sum/)|[230809](./neetcode/230809_03.py)|||
+
+||[]()|[Python ](./neetcode/230_01.py)|||
+
+</p>   
+</details>
 
 
 
