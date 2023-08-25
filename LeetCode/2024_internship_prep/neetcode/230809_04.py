@@ -1,8 +1,13 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         M = {}
-        for i, n in enumerate(nums):
-            if n in M:
-                return [i, M[n]]
+        for word in strs:
+            L = list(word)
+            L.sort()
+            T = tuple(L)
+            if T in M:
+                M[T].append(word)
             else:
-                M[target-n] = i
+                M[T] = [word]
+        
+        return [M[k] for k in M.keys()]
