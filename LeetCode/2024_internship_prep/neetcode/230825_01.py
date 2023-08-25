@@ -1,51 +1,47 @@
 class Solution:
-    def isValidSudoku(self, board: List[List[str]]) -> bool:
-        N = len(board)
+    def longestConsecutive(self, nums: List[int]) -> int:
+        starts = {}
+        ends = {}
+        elements = []
+        used = set()
 
-        def _row_check(i):
-            row = [None] * (N+1)
-            for j in range(N):
-                if board[i][j] == ".":
-                    continue
-                if row[int(board[i][j])]:
-                    return False
-                row[int(board[i][j])] = True
-            return True
-        
-        def _col_check(j):
-            col = [None] * (N+1)
-            for i in range(N):
-                if board[i][j] == ".":
-                    continue
-                if col[int(board[i][j])]:
-                    return False
-                col[int(board[i][j])] = True
-            return True
-        
-        def _cube_check(i, j):
-            col = [None] * (N+1)
-            ii = i * 3
-            jj = j * 3
-            for iii in range(ii, ii+3):
-                for jjj in range(jj, jj+3):
-                    if board[iii][jjj] == ".":
-                        continue
-                    if col[int(board[iii][jjj])]:
-                        return False
-                    col[int(board[iii][jjj])] = True
-            return True
-                            
-
-        for i in range(N):
-            if not _row_check(i):
-                return False
+        for n in nums:
+            if n in used:
+                continue
             
-            if not _col_check(i):
-                return False
+            used.add(n)
+            called = False
+            if n+1 in starts:
+                called = True
+                old = starts[n+1]
+                del starts[n+1]
+                old[0] = n
+                starts[n] = old
             
-        for i in range(3):
-            for j in range(3):
-                if not _cube_check(i, j):
-                    return False
+            if n-1 in ends:
+                called = True
+                old = ends[n-1]
+                del ends[n-1]
+                old[1] = n
+                ends[n] = old
+            
+            if called:
+                if n in starts and n in ends:
+                    ss, ee = ends[n][0], starts[n][1]
+                    new = [ss, ee]
+                    elements.append(new)
+                    del ends[n]
+                    del starts[n]
+                    starts[ss] = new
+                    ends[ee] = new
+            else:
+                new_element = [n, n]
+                elements.append(new_element)
+                starts[n] = new_element
+                ends[n] = new_element
         
-        return True
+        result = 0
+        for x in elements:
+            result = max(result, x[1]-x[0]+1)
+        
+        return result
