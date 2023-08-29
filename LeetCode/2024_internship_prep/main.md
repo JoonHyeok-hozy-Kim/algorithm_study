@@ -200,8 +200,9 @@
 | 9|[Longest Consecutive Sequence :broken_heart:](https://leetcode.com/problems/longest-consecutive-sequence/)|[230825](./neetcode/230825_01.py)|||
 |10|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[230825](./neetcode/230825_02.py)|||
 |11|[Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/)|[230825](./neetcode/230825_03.py)|||
-|12|[]()|[230825](./neetcode/230811_0.py)|||
-
+|12|[3Sum :broken_heart::hammer:](https://leetcode.com/problems/3sum/description/)|[230828](./neetcode/230828_01.py)|||
+|13|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[230828](./neetcode/230828_02.py)|||
+|14|[Trapping Rain Water :broken_heart:](https://leetcode.com/problems/trapping-rain-water/description/)|[230829](./neetcode/230829_01.py)|||
 
 
 
