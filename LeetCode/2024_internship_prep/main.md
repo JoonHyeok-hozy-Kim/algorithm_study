@@ -203,6 +203,8 @@
 |12|[3Sum :broken_heart::hammer:](https://leetcode.com/problems/3sum/description/)|[230828](./neetcode/230828_01.py)|||
 |13|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[230828](./neetcode/230828_02.py)|||
 |14|[Trapping Rain Water :broken_heart:](https://leetcode.com/problems/trapping-rain-water/description/)|[230829](./neetcode/230829_01.py)|||
+|15|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[230829](./neetcode/230829_02.py)|||
+|16|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[230829](./neetcode/230829_03.py)|||
 
 
 
