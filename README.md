@@ -1,7 +1,5 @@
 # algorithm_study
 
-bash_test!
-
 ## 1. Baek Joon Online Judge ([Go Baek Joon](https://www.acmicpc.net/))
 <!-- ### [:blue_book: Review Note](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Review/review_note.md) -->
 #### Week 1. [Time Complexity, Sorting, Full Scan](https://github.com/JoonHyeok-hozy-Kim/algorithm_study/blob/main/BaekJoon/Solutions/Week1/contents.md)
