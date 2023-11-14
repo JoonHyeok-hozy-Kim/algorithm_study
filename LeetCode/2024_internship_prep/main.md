@@ -205,7 +205,7 @@
 |14|[Trapping Rain Water :broken_heart:](https://leetcode.com/problems/trapping-rain-water/description/)|[230829](./neetcode/230829_01.py)|||
 |15|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[230829](./neetcode/230829_02.py)|||
 |16|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[230829](./neetcode/230829_03.py)|||
-
+|17|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[231114](neetcode/231114.py)|||
 
 
 ||[]()|[230809](./neetcode/230_01.py)|||
