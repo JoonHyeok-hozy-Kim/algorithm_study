@@ -206,9 +206,9 @@
 |15|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[230829](./neetcode/230829_02.py)|||
 |16|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[230829](./neetcode/230829_03.py)|||
 |17|[Longest Repeating Character Replacement :broken_heart:](https://leetcode.com/problems/longest-repeating-character-replacement/)|[231115](neetcode/231115.py)|||
+|18|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[231121](neetcode/231121.py)|||
 
 
-||[]()|[230809](./neetcode/230_01.py)|||
 
 </p>   
 </details>
