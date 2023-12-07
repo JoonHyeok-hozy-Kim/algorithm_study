@@ -210,6 +210,7 @@
 |19|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[231124](neetcode/231124.py)|||
 |20|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[241204](neetcode/241204.py)|||
 |21|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[241206](neetcode/241206.py)|||
+|22|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[241207](neetcode/241207.py)|||
 
 
 
