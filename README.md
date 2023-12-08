@@ -1,6 +1,18 @@
-# algorithm_study
+# Algorithm Problem Solving Record
 
-## 1. Baek Joon Online Judge ([Go Baek Joon](https://www.acmicpc.net/))
+<br>
+
+## 1. LeetCode ([Visit LeetCode](./LeetCode/2024_internship_prep/main.md))
+- Leetcode Top Interview Questions
+  - [Easy](leetcode/2024_internship_prep/top_interview_questions_easy/main.md)
+  - [Medium](leetcode/2024_internship_prep/top_interview_questions_medium/main.md)
+  - [Hard](leetcode/2024_internship_prep/top_interview_questions_hard/main.md)
+- Neetcode ([Visit Neetcode](https://neetcode.io/))
+  - [Blind75](leetcode/2024_internship_prep/neetcode/blind75/main.md)
+
+<br>
+
+## 2. Baek Joon Online Judge ([Visit Baek Joon](https://www.acmicpc.net/))
 <!-- ### [:blue_book: Review Note](./BaekJoon/Review/review_note.md) -->
 #### Week 1. [Time Complexity, Sorting, Full Scan](./BaekJoon/Solutions/Week1/contents.md)
 #### Week 2. [Stacks, Queues, Dequeues](./BaekJoon/Solutions/Week2/contents.md)
@@ -12,7 +24,3 @@
 #### Week 8. [Tree Algorithms](./BaekJoon/Solutions/Week8/contents.md)
 #### Week 9. [Shortest Path Finding (Dijkstra, Floyd-Warshall, and Bellman-Ford)](./BaekJoon/Solutions/Week9/contents.md)
 #### Week 10. [Union/Find and Minimum Spanning Tree (Kruskal and Prim-Jarnik)](./BaekJoon/Solutions/Week10/contents.md)
-
----
-
-## 2. [LeetCode](./LeetCode/2024_internship_prep/main.md)
