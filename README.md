@@ -4,11 +4,11 @@
 
 ## 1. LeetCode ([Visit LeetCode](./LeetCode/2024_internship_prep/main.md))
 - Leetcode Top Interview Questions
-  - [Easy](leetcode/2024_internship_prep/top_interview_questions_easy/main.md)
-  - [Medium](leetcode/2024_internship_prep/top_interview_questions_medium/main.md)
-  - [Hard](leetcode/2024_internship_prep/top_interview_questions_hard/main.md)
+  - [Easy](LeetCode/2024_internship_prep/top_interview_questions_easy/main.md)
+  - [Medium](LeetCode/2024_internship_prep/top_interview_questions_medium/main.md)
+  - [Hard](LeetCode/2024_internship_prep/top_interview_questions_hard/main.md)
 - Neetcode ([Visit Neetcode](https://neetcode.io/))
-  - [Blind75](leetcode/2024_internship_prep/neetcode/blind75/main.md)
+  - [Blind75](LeetCode/2024_internship_prep/neetcode/blind75/main.md)
 
 <br>
 
