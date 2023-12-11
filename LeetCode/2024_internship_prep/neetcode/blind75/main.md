@@ -27,3 +27,4 @@
 |21|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[241206](neetcode/241206.py)|||
 |22|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[241207](neetcode/241207.py)|||
 |23|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[241208](neetcode/241208.py)|||
+|24|[Reorder List](https://leetcode.com/problems/reorder-list/)|[241211](neetcode/241211.py)|||
