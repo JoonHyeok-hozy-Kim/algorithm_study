@@ -23,11 +23,11 @@
 |17|[Longest Repeating Character Replacement :broken_heart:](https://leetcode.com/problems/longest-repeating-character-replacement/)|[231115](231115.py)|||
 |18|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[231121](231121.py)|||
 |19|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[231124](231124.py)|||
-|20|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[241204](241204.py)|||
-|21|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[241206](241206.py)|||
-|22|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[241207](241207.py)|||
-|23|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[241208](241208.py)|||
-|24|[Reorder List](https://leetcode.com/problems/reorder-list/)|[241211](241211.py)|||
-|25|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[241212](241212.py)|||
-|26|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[241213](241213.py)|||
-|27|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[241214](241214.py)|||
+|20|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[231204](231204.py)|||
+|21|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[231206](231206.py)|||
+|22|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[231207](231207.py)|||
+|23|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[231208](231208.py)|||
+|24|[Reorder List](https://leetcode.com/problems/reorder-list/)|[231211](231211.py)|||
+|25|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[231212](231212.py)|||
+|26|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[231213](231213.py)|||
+|27|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[231214](231214.py)|||
