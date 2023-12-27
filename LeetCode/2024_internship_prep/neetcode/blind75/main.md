@@ -31,3 +31,4 @@
 |25|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[231212](231212.py)|||
 |26|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[231213](231213.py)|||
 |27|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[231214](231214.py)|||
+|28|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[231227](231227.py)|||
