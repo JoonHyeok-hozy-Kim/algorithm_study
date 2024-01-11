@@ -36,3 +36,4 @@
 |30|[Same Tree](https://leetcode.com/problems/same-tree/)|[231228_2](231228_2.py)|||
 |31|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[240102](240102.py)|||
 |32|[Lowest Common Ancestor of a Binary Search Tree](images/240107.png)|[240107](240107.py)|||
+|33|[Kth Smallest Element in a BST](images/240107.png)|[240107](240107.py)|||
