@@ -39,3 +39,4 @@
 |33|[Binary Tree Level Order Traversal](images/240109.png)|[240109](scripts/240109.py)|||
 |34|[Validate Binary Search Tree :exclamation:](images/240110.png)|[240110](scripts/240110.py)|||
 |35|[Kth Smallest Element in a BST](images/240111.png)|[240111](scripts/240111.py)|||
+|36|[Construct Binary Tree from Preorder and Inorder Traversal](images/240112.png)|[240112](scripts/240112.py)|||
