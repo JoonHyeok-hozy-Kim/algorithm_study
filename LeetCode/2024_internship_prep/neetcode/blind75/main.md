@@ -41,3 +41,4 @@
 |35|[Kth Smallest Element in a BST](images/240111.png)|[240111](scripts/240111.py)|||
 |36|[Construct Binary Tree from Preorder and Inorder Traversal :exclamation:](images/240112.png)|[240112](scripts/240112.py)|||
 |37|[Binary Tree Maximum Path Sum](images/240113.png)|[240113](scripts/240113.py)|||
+|38|[Serialize and Deserialize Binary Tree :exclamation:](images/240118.png)|[240118](scripts/240118.py)|||
