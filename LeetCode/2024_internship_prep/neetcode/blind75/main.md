@@ -48,6 +48,7 @@
 |38|[Serialize and Deserialize Binary Tree :exclamation:](images/240118.png)|[240118](scripts/240118.py)|||
 |39|[Implement Trie (Prefix Tree)](images/240119.png)|[240119](scripts/240119.py)|||
 |40|[Design Add and Search Words Data Structure](images/240120.png)|[240120](scripts/240120.py)|||
+|41|[Word Search II](images/240121.png)|[240121](scripts/240121.py)|||
 
 <br><br>
 
