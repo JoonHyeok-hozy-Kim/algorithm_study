@@ -52,6 +52,10 @@
 |42|[Find Median from Data Stream :exclamation:](images/240128.png)|[240128](scripts/240128.py)|||
 |43|[Combination Sum :exclamation:](images/240209.png)|[240209](scripts/240209.py)|||
 |44|[Word Search :exclamation:](images/240212.png)|[240212](scripts/240212.py)|||
+|45|[Number of Islands](images/240213.png)|[240212](scripts/240213.py)|||
+
+
+
 
 <br><br>
 
