@@ -55,6 +55,7 @@
 |45|[Number of Islands](images/240213.png)|[240213](scripts/240213.py)|||
 |46|[Clone Graph](images/240214.png)|[240214](scripts/240214.py)|||
 |47|[Pacific Atlantic Water Flow](images/240215.png)|[240215](scripts/240215.py)|||
+|48|[Course Schedule :exclamation:](images/240217.png)|[240217](scripts/240217.py)|||
 
 
 
